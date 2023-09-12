@@ -1,0 +1,80 @@
+Cell.Type,cell_line,SampleID,Media,OxygenConditions,Provider,Type,subtype,subtype2,comment
+2774N,2774,JBLAB-25695,DMEM/F-12,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,other,endometrioid,probably
+59M,59M,JBLAB-25676,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,HGSOC,HGSOC,NA
+A2780,,,RPMI 1640,21%,"Jozien Helleman, Netherlands",unknown,unknown,unknown,catalog as ovarian carcinoma but dubious. This clone is resistant to adriamycin
+A2780-ADR,A2780ADR,JBLAB-25696,RPMI 1640,21%,"Jozien Helleman, Netherlands",unknown,unknown,unknown,catalog as ovarian carcinoma but dubious. This clone is resistant to adriamycin
+A2780-CIS,A2780CIS,JBLAB-25697,RPMI 1640,21%,"Jozien Helleman, Netherlands",unknown,unknown,unknown,catalog as ovarian carcinoma but dubious. This clone is resistant to cisplatin
+CAOV3,CAOV3,JBLAB-25691,DMEM/F-12,21%,unknown,HGSOC,HGSOC,HGSOC,NA
+CAOV4,CAOV4,JBLAB-25883,L-15,21%,"Jozien Helleman, Netherlands",HGSOC,HGSOC,HGSOC,NA
+CIOV1,CIOV1,JBLAB-25875,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV2,CIOV2,JBLAB-25679,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV2,CIOV2,JBLAB-25876,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV3,CIOV3,JBLAB-25877,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV4,CIOV4,JBLAB-25686,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV5,CIOV5,JBLAB-25687,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV6,CIOV6,JBLAB-25688,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+CIOV7,CIOV7,JBLAB-25911,DMEM/F-12,21%,in-house,HGSOC,HGSOC,HGSOC,NA
+COV318,COV318,JBLAB-25674,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,HGSOC,HGSOC,NA
+COV362,COV362,JBLAB-25690,DMEM/F-12,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,other,endometrioid,NA
+COV362.4,COV362.4,JBLAB-25895,DMEM/F-12,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,other,endometrioid,clone from COV362
+COV413A,COV413A,JBLAB-25882,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian epithelial-serous carcinoma,other,HGSOC,cell line established from a metastasis of the sigmoid colon
+COV644 NL,COV644,JBLAB-25692,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian epithelial-mucinous carcinoma,other,mucinous,NA
+ES-2,ES2,JBLAB-25897,McCoy's 5A,21%,unknown,HGSOC,HGSOC,HGSOC,NA
+FT194,FT194,JBLAB-25678,DMEM/F-12,21%,Ronnie Drapkin,normal fallopian tube,normal,normal,these two lines were originally grown using 2%USG instead of 10%FCS
+FT246,FT246,JBLAB-25874,DMEM/F-12,21%,Ronnie Drapkin,normal fallopian tube,normal,normal,NA
+FUOV1,FUOV1,JBLAB-25884,DMEM/F-12,21%,"DSMZ, ACC444, Lot7, 7.03.2018",HGSOC,HGSOC,HGSOC,NA
+HOC-7,HOC-7,JBLAB-25893,RPMI 1640,21%,"Jozien Helleman, Netherlands",LGSOC,other,LGSOC,NA
+IGROV-1,IGROV1,JBLAB-25888,RPMI 1640,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,other,endometrioid,probably
+IOSE4,IOSE4,JBLAB-25887,DMEM/F-12,21%,unknown,normal ovarian surface epithelium,normal,normal,Telomerase Immortalized
+,NA12878,JBLAB-25889,RPMI 1640,21%,Caldas lab,lymphoblastoid,normal,normal,NA
+NIH:OVCAR3,NIH:OVCAR3,JBLAB-25885,RPMI 1640,21%,ATCC,HGSOC,HGSOC,HGSOC,NA
+OAW28 NL,OAW28,JBLAB-25694,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,HGSOC,HGSOC,NA
+OAW42 NL,OAW42,JBLAB-25913,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian cystadenocarcinoma,other,HGSOC,NA
+OV-1369(2),OV-1369 (2),JBLAB-25698,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV17R NL,OV17R,JBLAB-25896,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian adenocarcinoma,other,HGSOC,NA
+OV-1946,OV-1946,JBLAB-25910,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-2085,OV-2085,JBLAB-25914,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-2085(2),OV-2085 (2),JBLAB-25683,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-2295,OV-2295,JBLAB-25902,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-2295(2),OV-2295 (2),JBLAB-25907,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-2978,OV-2978,JBLAB-25912,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-3133,OV-3133,JBLAB-25905,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-3133(2),,,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-3331,OV-3331,JBLAB-25872,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-4453,,,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-4485,OV-4485,JBLAB-25680,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV56,OV56,JBLAB-25689,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,HGSOC,HGSOC,NA
+OV-866(2),OV-866 (2),JBLAB-25908,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OV-90,OV-90,JBLAB-25675,OSE,21%,unknown,HGSOC,HGSOC,HGSOC,NA
+OV-90(MesMasson),OV-90 (mes-masson),JBLAB-25900,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+OVCAR-5,OVCAR-5,JBLAB-25892,DMEM/F-12,21%,canadian ovarian tissue bank,unknown,unknown,unknown,Problematic cell line: Possibly misidentified. Originally thought to be a high grade ovarian serous adenocarcinoma but suspected to have a upper gastrointestinal origin
+OVCAR-8,OVCAR-8,JBLAB-25898,RPMI 1640,21%,canadian ovarian tissue bank,HGSOC,HGSOC,HGSOC,NA
+OVKATE,OVKATE,JBLAB-25886,RPMI 1640,21%,unknown,HGSOC,HGSOC,HGSOC,NA
+OVSAHO,OVSAHO,JBLAB-25693,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEA1,PEA1,JBLAB-25890,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEA2,PEA2,JBLAB-25891,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEO1,PEO1,JBLAB-25878,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEO14,PEO14,JBLAB-25881,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEO16,PEO16,JBLAB-25685,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEO23,PEO23,JBLAB-25880,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEO4,PEO4,JBLAB-25879,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+PEO6,PEO6,JBLAB-25894,RPMI 1640,21%,Simon Langdon,HGSOC,HGSOC,HGSOC,NA
+TOV-1369M,TOV-1369 M,JBLAB-25906,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-1946,TOV-1946,JBLAB-25909,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-2223G,TOV-2223 G,JBLAB-25903,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-2295,TOV-2295,JBLAB-25904,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-2835EP,TOV-2835 EP,JBLAB-25871,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-2881 EP,TOV-2881 EP,JBLAB-25677,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-2929 D,TOV-2929 D,JBLAB-25915,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-2978 G,TOV-2978 G,JBLAB-25873,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-3041G,TOV-3041 G,JBLAB-25699,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+,TOV-3121 D,JBLAB-25684,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-3121 EP,TOV-3121 EP,JBLAB-25901,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-3133 D,TOV-3133 D,JBLAB-25700,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+TOV-3133G,TOV-3133 G,JBLAB-25682,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+,TOV-3291 G,JBLAB-25899,OSE,5%,"Mes Masson, Canada",HGSOC,HGSOC,HGSOC,NA
+JHOS-2,,,,21%,,HGSOC,HGSOC,HGSOC,NA
+Kuramochi,,,,21%,,HGSOC,HGSOC,HGSOC,NA
+SNU-119,,,,21%,,HGSOC,HGSOC,HGSOC,NA
+TYK-nu,,,,21%,,HGSOC,HGSOC,HGSOC,NA
+TYK-nu.CP-r,,,,21%,,HGSOC,HGSOC,HGSOC,NA

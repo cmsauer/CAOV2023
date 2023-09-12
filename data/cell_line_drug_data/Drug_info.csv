@@ -1,0 +1,12 @@
+agent,details,group
+oxaliplatin,Oxaliplatin,Alkylating agent
+Paclitaxel,Paclitaxel,Antimicrotubule agent
+alisertib,AURKA,Aurora kinase
+barasertib,AURKB,Aurora kinase
+tozasertib,panAURK,Aurora kinase
+cw069,KIFC1 (HSET),Centrosome clustering
+bi2536,panPLK,Polo like kinase
+cfi400945,PLK4,Polo like kinase
+volasertib,PLK1,Polo like kinase
+az3146,TTK (MPS1),SAC component
+gsk923295,CENPE,SAC component

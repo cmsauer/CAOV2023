@@ -1,0 +1,944 @@
+"X","Field_ID","Plate","Compound","Concentration","Cell.Type","Nuclei.Number","Nuclei.Sum"
+1,"Plate1.1.1_F2","Plate1","Stain1",NA,"CAOV3",53,949
+2,"Plate1.1.1_F4","Plate1","Stain1",NA,"CAOV3",72,949
+3,"Plate1.1.1_F5","Plate1","Stain1",NA,"CAOV3",45,949
+4,"Plate1.1.2_F1","Plate1","Stain1",NA,"CAOV3",89,949
+5,"Plate1.1.2_F3","Plate1","Stain1",NA,"CAOV3",40,949
+6,"Plate1.1.3_F1","Plate1","Stain1",NA,"CAOV3",154,949
+7,"Plate1.1.3_F3","Plate1","Stain1",NA,"CAOV3",64,949
+8,"Plate1.2.3_F1","Plate1","Stain1",NA,"CAOV4",177,1761
+9,"Plate1.3.1_F1","Plate1","Stain1",NA,"COV362",62,1827
+10,"Plate1.3.1_F2","Plate1","Stain1",NA,"COV362",115,1827
+11,"Plate1.3.1_F3","Plate1","Stain1",NA,"COV362",118,1827
+12,"Plate1.3.1_F4","Plate1","Stain1",NA,"COV362",73,1827
+13,"Plate1.3.1_F5","Plate1","Stain1",NA,"COV362",81,1827
+14,"Plate1.3.2_F1","Plate1","Stain1",NA,"COV362",75,1827
+15,"Plate1.3.2_F2","Plate1","Stain1",NA,"COV362",58,1827
+16,"Plate1.3.2_F3","Plate1","Stain1",NA,"COV362",78,1827
+17,"Plate1.3.2_F4","Plate1","Stain1",NA,"COV362",81,1827
+18,"Plate1.3.2_F5","Plate1","Stain1",NA,"COV362",102,1827
+19,"Plate1.3.3_F1","Plate1","Stain1",NA,"COV362",163,1827
+20,"Plate1.3.3_F2","Plate1","Stain1",NA,"COV362",64,1827
+21,"Plate1.3.3_F3","Plate1","Stain1",NA,"COV362",52,1827
+22,"Plate1.4.1_F1","Plate1","Stain1",NA,"FUOV1",90,1948
+23,"Plate1.4.1_F2","Plate1","Stain1",NA,"FUOV1",121,1948
+24,"Plate1.4.1_F3","Plate1","Stain1",NA,"FUOV1",183,1948
+25,"Plate1.4.1_F4","Plate1","Stain1",NA,"FUOV1",58,1948
+26,"Plate1.4.1_F5","Plate1","Stain1",NA,"FUOV1",46,1948
+27,"Plate1.4.2_F1","Plate1","Stain1",NA,"FUOV1",122,1948
+28,"Plate1.4.2_F2","Plate1","Stain1",NA,"FUOV1",162,1948
+29,"Plate1.4.2_F3","Plate1","Stain1",NA,"FUOV1",84,1948
+30,"Plate1.4.2_F4","Plate1","Stain1",NA,"FUOV1",90,1948
+31,"Plate1.4.2_F5","Plate1","Stain1",NA,"FUOV1",82,1948
+32,"Plate1.4.3_F1","Plate1","Stain1",NA,"FUOV1",112,1948
+33,"Plate1.4.3_F2","Plate1","Stain1",NA,"FUOV1",101,1948
+34,"Plate1.4.3_F3","Plate1","Stain1",NA,"FUOV1",62,1948
+35,"Plate1.4.3_F4","Plate1","Stain1",NA,"FUOV1",110,1948
+36,"Plate1.4.3_F5","Plate1","Stain1",NA,"FUOV1",86,1948
+37,"Plate1.5.1_F2","Plate1","Stain1",NA,"59M",44,810
+38,"Plate1.5.1_F3","Plate1","Stain1",NA,"59M",45,810
+39,"Plate1.5.1_F5","Plate1","Stain1",NA,"59M",44,810
+40,"Plate1.5.2_F1","Plate1","Stain1",NA,"59M",45,810
+41,"Plate1.5.2_F2","Plate1","Stain1",NA,"59M",33,810
+42,"Plate1.5.2_F4","Plate1","Stain1",NA,"59M",41,810
+43,"Plate1.5.2_F5","Plate1","Stain1",NA,"59M",33,810
+44,"Plate1.5.3_F1","Plate1","Stain1",NA,"59M",51,810
+45,"Plate1.6.1_F1","Plate1","Stain1",NA,"COV318",47,548
+46,"Plate1.6.1_F2","Plate1","Stain1",NA,"COV318",41,548
+47,"Plate1.6.1_F3","Plate1","Stain1",NA,"COV318",47,548
+48,"Plate1.6.1_F4","Plate1","Stain1",NA,"COV318",50,548
+49,"Plate1.6.1_F5","Plate1","Stain1",NA,"COV318",33,548
+50,"Plate1.6.2_F1","Plate1","Stain1",NA,"COV318",49,548
+51,"Plate1.6.2_F2","Plate1","Stain1",NA,"COV318",58,548
+52,"Plate1.6.2_F4","Plate1","Stain1",NA,"COV318",37,548
+53,"Plate1.6.2_F5","Plate1","Stain1",NA,"COV318",50,548
+54,"Plate1.6.3_F1","Plate1","Stain1",NA,"COV318",37,548
+55,"Plate1.6.3_F2","Plate1","Stain1",NA,"COV318",33,548
+56,"Plate1.6.3_F5","Plate1","Stain1",NA,"COV318",66,548
+57,"Plate1.7.1_F1","Plate1","Stain1",NA,"NIH:OVCAR3",80,1675
+58,"Plate1.7.1_F2","Plate1","Stain1",NA,"NIH:OVCAR3",101,1675
+59,"Plate1.7.1_F3","Plate1","Stain1",NA,"NIH:OVCAR3",78,1675
+60,"Plate1.7.1_F4","Plate1","Stain1",NA,"NIH:OVCAR3",54,1675
+61,"Plate1.7.2_F1","Plate1","Stain1",NA,"NIH:OVCAR3",99,1675
+62,"Plate1.7.2_F2","Plate1","Stain1",NA,"NIH:OVCAR3",34,1675
+63,"Plate1.7.2_F3","Plate1","Stain1",NA,"NIH:OVCAR3",76,1675
+64,"Plate1.7.2_F5","Plate1","Stain1",NA,"NIH:OVCAR3",34,1675
+65,"Plate1.7.3_F1","Plate1","Stain1",NA,"NIH:OVCAR3",152,1675
+66,"Plate1.7.3_F2","Plate1","Stain1",NA,"NIH:OVCAR3",46,1675
+67,"Plate1.7.3_F4","Plate1","Stain1",NA,"NIH:OVCAR3",37,1675
+68,"Plate1.7.3_F5","Plate1","Stain1",NA,"NIH:OVCAR3",56,1675
+69,"Plate2.1.1_F1","Plate2","Stain1",NA,"59M",86,810
+70,"Plate2.1.1_F2","Plate2","Stain1",NA,"59M",58,810
+71,"Plate2.1.1_F4","Plate2","Stain1",NA,"59M",44,810
+72,"Plate2.1.2_F1","Plate2","Stain1",NA,"59M",49,810
+73,"Plate2.1.2_F4","Plate2","Stain1",NA,"59M",58,810
+74,"Plate2.1.3_F3","Plate2","Stain1",NA,"59M",49,810
+75,"Plate2.1.3_F4","Plate2","Stain1",NA,"59M",30,810
+76,"Plate2.1.3_F1","Plate2","Stain1",NA,"59M",58,810
+77,"Plate2.1.3_F2","Plate2","Stain1",NA,"59M",42,810
+78,"Plate2.2.1_F2","Plate2","Stain1",NA,"CAOV3",34,949
+79,"Plate2.2.1_F1","Plate2","Stain1",NA,"CAOV3",122,949
+80,"Plate2.2.2_F1","Plate2","Stain1",NA,"CAOV3",36,949
+81,"Plate2.2.2_F5","Plate2","Stain1",NA,"CAOV3",45,949
+82,"Plate2.2.2_F4","Plate2","Stain1",NA,"CAOV3",64,949
+83,"Plate2.2.3_F1","Plate2","Stain1",NA,"CAOV3",71,949
+84,"Plate2.2.3_F2","Plate2","Stain1",NA,"CAOV3",60,949
+85,"Plate2.3.1_F5","Plate2","Stain1",NA,"CAOV4",76,1761
+86,"Plate2.3.1_F2","Plate2","Stain1",NA,"CAOV4",158,1761
+87,"Plate2.3.1_F3","Plate2","Stain1",NA,"CAOV4",79,1761
+88,"Plate2.3.1_F4","Plate2","Stain1",NA,"CAOV4",64,1761
+89,"Plate2.3.1_F1","Plate2","Stain1",NA,"CAOV4",186,1761
+90,"Plate2.3.2_F1","Plate2","Stain1",NA,"CAOV4",98,1761
+91,"Plate2.3.2_F3","Plate2","Stain1",NA,"CAOV4",129,1761
+92,"Plate2.3.2_F5","Plate2","Stain1",NA,"CAOV4",162,1761
+93,"Plate2.3.2_F2","Plate2","Stain1",NA,"CAOV4",151,1761
+94,"Plate2.3.2_F4","Plate2","Stain1",NA,"CAOV4",87,1761
+95,"Plate2.3.3_F1","Plate2","Stain1",NA,"CAOV4",334,1761
+96,"Plate2.3.3_F5","Plate2","Stain1",NA,"CAOV4",60,1761
+97,"Plate2.4.1_F1","Plate2","Stain1",NA,"CIOV4",38,103
+98,"Plate2.4.3_F1","Plate2","Stain1",NA,"CIOV4",30,103
+99,"Plate2.4.3_F5","Plate2","Stain1",NA,"CIOV4",35,103
+100,"Plate2.6.1_F5","Plate2","Stain1",NA,"COV362",52,1827
+101,"Plate2.6.1_F3","Plate2","Stain1",NA,"COV362",31,1827
+102,"Plate2.6.1_F1","Plate2","Stain1",NA,"COV362",41,1827
+103,"Plate2.6.1_F2","Plate2","Stain1",NA,"COV362",60,1827
+104,"Plate2.6.1_F4","Plate2","Stain1",NA,"COV362",70,1827
+105,"Plate2.6.2_F5","Plate2","Stain1",NA,"COV362",33,1827
+106,"Plate2.6.2_F4","Plate2","Stain1",NA,"COV362",70,1827
+107,"Plate2.6.2_F1","Plate2","Stain1",NA,"COV362",73,1827
+108,"Plate2.6.2_F2","Plate2","Stain1",NA,"COV362",45,1827
+109,"Plate2.6.3_F2","Plate2","Stain1",NA,"COV362",59,1827
+110,"Plate2.6.3_F4","Plate2","Stain1",NA,"COV362",72,1827
+111,"Plate2.6.3_F5","Plate2","Stain1",NA,"COV362",46,1827
+112,"Plate2.6.3_F1","Plate2","Stain1",NA,"COV362",53,1827
+113,"Plate2.7.1_F5","Plate2","Stain1",NA,"FUOV1",53,1948
+114,"Plate2.7.1_F3","Plate2","Stain1",NA,"FUOV1",58,1948
+115,"Plate2.7.1_F4","Plate2","Stain1",NA,"FUOV1",31,1948
+116,"Plate2.7.2_F4","Plate2","Stain1",NA,"FUOV1",36,1948
+117,"Plate2.7.2_F5","Plate2","Stain1",NA,"FUOV1",33,1948
+118,"Plate2.7.2_F2","Plate2","Stain1",NA,"FUOV1",48,1948
+119,"Plate2.7.3_F2","Plate2","Stain1",NA,"FUOV1",73,1948
+120,"Plate2.7.3_F1","Plate2","Stain1",NA,"FUOV1",54,1948
+121,"Plate2.7.3_F4","Plate2","Stain1",NA,"FUOV1",53,1948
+122,"Plate2.8.1_F3","Plate2","Stain1",NA,"NIH:OVCAR3",59,1675
+123,"Plate2.8.1_F5","Plate2","Stain1",NA,"NIH:OVCAR3",87,1675
+124,"Plate2.8.1_F2","Plate2","Stain1",NA,"NIH:OVCAR3",34,1675
+125,"Plate2.8.1_F4","Plate2","Stain1",NA,"NIH:OVCAR3",57,1675
+126,"Plate2.8.1_F1","Plate2","Stain1",NA,"NIH:OVCAR3",82,1675
+127,"Plate2.8.2_F2","Plate2","Stain1",NA,"NIH:OVCAR3",152,1675
+128,"Plate2.8.2_F1","Plate2","Stain1",NA,"NIH:OVCAR3",38,1675
+129,"Plate2.8.2_F4","Plate2","Stain1",NA,"NIH:OVCAR3",103,1675
+130,"Plate2.8.2_F3","Plate2","Stain1",NA,"NIH:OVCAR3",42,1675
+131,"Plate2.8.3_F1","Plate2","Stain1",NA,"NIH:OVCAR3",35,1675
+132,"Plate2.8.3_F3","Plate2","Stain1",NA,"NIH:OVCAR3",76,1675
+133,"Plate2.8.3_F4","Plate2","Stain1",NA,"NIH:OVCAR3",31,1675
+134,"Plate2.8.3_F5","Plate2","Stain1",NA,"NIH:OVCAR3",32,1675
+135,"Plate3.1.1_F5","Plate3","Stain1",NA,"CIOV1",108,1619
+136,"Plate3.1.1_F1","Plate3","Stain1",NA,"CIOV1",184,1619
+137,"Plate3.1.1_F3","Plate3","Stain1",NA,"CIOV1",63,1619
+138,"Plate3.1.1_F4","Plate3","Stain1",NA,"CIOV1",82,1619
+139,"Plate3.1.1_F2","Plate3","Stain1",NA,"CIOV1",60,1619
+140,"Plate3.1.2_F2","Plate3","Stain1",NA,"CIOV1",85,1619
+141,"Plate3.1.2_F1","Plate3","Stain1",NA,"CIOV1",209,1619
+142,"Plate3.1.2_F5","Plate3","Stain1",NA,"CIOV1",122,1619
+143,"Plate3.1.2_F4","Plate3","Stain1",NA,"CIOV1",68,1619
+144,"Plate3.1.2_F3","Plate3","Stain1",NA,"CIOV1",85,1619
+145,"Plate3.1.3_F2","Plate3","Stain1",NA,"CIOV1",71,1619
+146,"Plate3.1.3_F1","Plate3","Stain1",NA,"CIOV1",194,1619
+147,"Plate3.1.3_F3","Plate3","Stain1",NA,"CIOV1",64,1619
+148,"Plate3.1.3_F5","Plate3","Stain1",NA,"CIOV1",146,1619
+149,"Plate3.1.3_F4","Plate3","Stain1",NA,"CIOV1",78,1619
+150,"Plate3.2.1_F1","Plate3","Stain1",NA,"CIOV5",127,986
+151,"Plate3.2.1_F2","Plate3","Stain1",NA,"CIOV5",61,986
+152,"Plate3.2.1_F5","Plate3","Stain1",NA,"CIOV5",95,986
+153,"Plate3.2.2_F5","Plate3","Stain1",NA,"CIOV5",38,986
+154,"Plate3.2.2_F1","Plate3","Stain1",NA,"CIOV5",192,986
+155,"Plate3.2.2_F2","Plate3","Stain1",NA,"CIOV5",45,986
+156,"Plate3.2.2_F4","Plate3","Stain1",NA,"CIOV5",35,986
+157,"Plate3.2.2_F3","Plate3","Stain1",NA,"CIOV5",55,986
+158,"Plate3.2.3_F5","Plate3","Stain1",NA,"CIOV5",144,986
+159,"Plate3.2.3_F1","Plate3","Stain1",NA,"CIOV5",151,986
+160,"Plate3.2.3_F3","Plate3","Stain1",NA,"CIOV5",43,986
+161,"Plate3.3.1_F5","Plate3","Stain1",NA,"CIOV7",32,100
+162,"Plate3.3.2_F5","Plate3","Stain1",NA,"CIOV7",30,100
+163,"Plate3.3.3_F4","Plate3","Stain1",NA,"CIOV7",38,100
+164,"Plate3.4.1_F2","Plate3","Stain1",NA,"OVKATE",60,729
+165,"Plate3.4.1_F4","Plate3","Stain1",NA,"OVKATE",45,729
+166,"Plate3.4.1_F5","Plate3","Stain1",NA,"OVKATE",54,729
+167,"Plate3.4.1_F3","Plate3","Stain1",NA,"OVKATE",46,729
+168,"Plate3.4.1_F1","Plate3","Stain1",NA,"OVKATE",45,729
+169,"Plate3.4.2_F2","Plate3","Stain1",NA,"OVKATE",70,729
+170,"Plate3.4.2_F3","Plate3","Stain1",NA,"OVKATE",74,729
+171,"Plate3.4.2_F5","Plate3","Stain1",NA,"OVKATE",84,729
+172,"Plate3.4.2_F1","Plate3","Stain1",NA,"OVKATE",30,729
+173,"Plate3.4.3_F5","Plate3","Stain1",NA,"OVKATE",59,729
+174,"Plate3.4.3_F1","Plate3","Stain1",NA,"OVKATE",70,729
+175,"Plate3.4.3_F3","Plate3","Stain1",NA,"OVKATE",42,729
+176,"Plate3.4.3_F2","Plate3","Stain1",NA,"OVKATE",50,729
+177,"Plate4.1.1_F2","Plate4","Stain1",NA,"2774N",202,1527
+178,"Plate4.1.1_F4","Plate4","Stain1",NA,"2774N",50,1527
+179,"Plate4.1.1_F1","Plate4","Stain1",NA,"2774N",143,1527
+180,"Plate4.1.1_F3","Plate4","Stain1",NA,"2774N",78,1527
+181,"Plate4.1.2_F3","Plate4","Stain1",NA,"2774N",100,1527
+182,"Plate4.1.2_F5","Plate4","Stain1",NA,"2774N",88,1527
+183,"Plate4.1.2_F2","Plate4","Stain1",NA,"2774N",181,1527
+184,"Plate4.1.2_F4","Plate4","Stain1",NA,"2774N",48,1527
+185,"Plate4.1.2_F1","Plate4","Stain1",NA,"2774N",111,1527
+186,"Plate4.1.3_F3","Plate4","Stain1",NA,"2774N",143,1527
+187,"Plate4.1.3_F2","Plate4","Stain1",NA,"2774N",195,1527
+188,"Plate4.1.3_F1","Plate4","Stain1",NA,"2774N",53,1527
+189,"Plate4.1.3_F4","Plate4","Stain1",NA,"2774N",40,1527
+190,"Plate4.1.3_F5","Plate4","Stain1",NA,"2774N",95,1527
+191,"Plate4.2.1_F2","Plate4","Stain1",NA,"A2780-ADR",405,4789
+192,"Plate4.2.1_F3","Plate4","Stain1",NA,"A2780-ADR",264,4789
+193,"Plate4.2.1_F1","Plate4","Stain1",NA,"A2780-ADR",188,4789
+194,"Plate4.2.1_F4","Plate4","Stain1",NA,"A2780-ADR",362,4789
+195,"Plate4.2.1_F5","Plate4","Stain1",NA,"A2780-ADR",168,4789
+196,"Plate4.2.2_F3","Plate4","Stain1",NA,"A2780-ADR",284,4789
+197,"Plate4.2.2_F2","Plate4","Stain1",NA,"A2780-ADR",447,4789
+198,"Plate4.2.2_F4","Plate4","Stain1",NA,"A2780-ADR",308,4789
+199,"Plate4.2.2_F5","Plate4","Stain1",NA,"A2780-ADR",359,4789
+200,"Plate4.2.2_F1","Plate4","Stain1",NA,"A2780-ADR",355,4789
+201,"Plate4.2.3_F2","Plate4","Stain1",NA,"A2780-ADR",345,4789
+202,"Plate4.2.3_F1","Plate4","Stain1",NA,"A2780-ADR",368,4789
+203,"Plate4.2.3_F4","Plate4","Stain1",NA,"A2780-ADR",302,4789
+204,"Plate4.2.3_F3","Plate4","Stain1",NA,"A2780-ADR",333,4789
+205,"Plate4.2.3_F5","Plate4","Stain1",NA,"A2780-ADR",301,4789
+206,"Plate4.3.1_F3","Plate4","Stain1",NA,"A2780-CIS",50,2399
+207,"Plate4.3.1_F1","Plate4","Stain1",NA,"A2780-CIS",177,2399
+208,"Plate4.3.1_F5","Plate4","Stain1",NA,"A2780-CIS",31,2399
+209,"Plate4.3.1_F2","Plate4","Stain1",NA,"A2780-CIS",216,2399
+210,"Plate4.3.1_F4","Plate4","Stain1",NA,"A2780-CIS",207,2399
+211,"Plate4.3.2_F1","Plate4","Stain1",NA,"A2780-CIS",219,2399
+212,"Plate4.3.2_F5","Plate4","Stain1",NA,"A2780-CIS",198,2399
+213,"Plate4.3.2_F3","Plate4","Stain1",NA,"A2780-CIS",133,2399
+214,"Plate4.3.2_F4","Plate4","Stain1",NA,"A2780-CIS",129,2399
+215,"Plate4.3.2_F2","Plate4","Stain1",NA,"A2780-CIS",143,2399
+216,"Plate4.3.3_F5","Plate4","Stain1",NA,"A2780-CIS",304,2399
+217,"Plate4.3.3_F4","Plate4","Stain1",NA,"A2780-CIS",76,2399
+218,"Plate4.3.3_F2","Plate4","Stain1",NA,"A2780-CIS",219,2399
+219,"Plate4.3.3_F1","Plate4","Stain1",NA,"A2780-CIS",221,2399
+220,"Plate4.3.3_F3","Plate4","Stain1",NA,"A2780-CIS",76,2399
+221,"Plate4.4.2_F4","Plate4","Stain1",NA,"CIOV2",69,456
+222,"Plate4.4.2_F2","Plate4","Stain1",NA,"CIOV2",50,456
+223,"Plate4.4.2_F3","Plate4","Stain1",NA,"CIOV2",43,456
+224,"Plate4.4.2_F5","Plate4","Stain1",NA,"CIOV2",41,456
+225,"Plate4.4.3_F1","Plate4","Stain1",NA,"CIOV2",60,456
+226,"Plate4.4.3_F5","Plate4","Stain1",NA,"CIOV2",84,456
+227,"Plate4.4.3_F4","Plate4","Stain1",NA,"CIOV2",53,456
+228,"Plate4.4.3_F3","Plate4","Stain1",NA,"CIOV2",56,456
+229,"Plate4.5.2_F3","Plate4","Stain1",NA,"CIOV3",34,365
+230,"Plate4.5.2_F1","Plate4","Stain1",NA,"CIOV3",38,365
+231,"Plate4.5.2_F5","Plate4","Stain1",NA,"CIOV3",55,365
+232,"Plate4.5.2_F2","Plate4","Stain1",NA,"CIOV3",40,365
+233,"Plate4.5.2_F4","Plate4","Stain1",NA,"CIOV3",34,365
+234,"Plate4.5.3_F4","Plate4","Stain1",NA,"CIOV3",70,365
+235,"Plate4.5.3_F5","Plate4","Stain1",NA,"CIOV3",47,365
+236,"Plate4.5.3_F1","Plate4","Stain1",NA,"CIOV3",47,365
+237,"Plate4.7.2_F4","Plate4","Stain1",NA,"COV362.4",79,2930
+238,"Plate4.7.2_F3","Plate4","Stain1",NA,"COV362.4",105,2930
+239,"Plate4.7.2_F5","Plate4","Stain1",NA,"COV362.4",105,2930
+240,"Plate4.7.2_F1","Plate4","Stain1",NA,"COV362.4",92,2930
+241,"Plate4.7.3_F5","Plate4","Stain1",NA,"COV362.4",70,2930
+242,"Plate4.7.3_F1","Plate4","Stain1",NA,"COV362.4",99,2930
+243,"Plate4.7.3_F4","Plate4","Stain1",NA,"COV362.4",75,2930
+244,"Plate4.7.3_F2","Plate4","Stain1",NA,"COV362.4",90,2930
+245,"Plate4.7.3_F3","Plate4","Stain1",NA,"COV362.4",50,2930
+246,"Plate5.1.1_F2","Plate5","Stain1",NA,"COV362.4",53,2930
+247,"Plate5.1.1_F3","Plate5","Stain1",NA,"COV362.4",145,2930
+248,"Plate5.1.1_F4","Plate5","Stain1",NA,"COV362.4",65,2930
+249,"Plate5.1.1_F1","Plate5","Stain1",NA,"COV362.4",144,2930
+250,"Plate5.1.1_F5","Plate5","Stain1",NA,"COV362.4",161,2930
+251,"Plate5.1.2_F4","Plate5","Stain1",NA,"COV362.4",135,2930
+252,"Plate5.1.2_F1","Plate5","Stain1",NA,"COV362.4",242,2930
+253,"Plate5.1.2_F3","Plate5","Stain1",NA,"COV362.4",157,2930
+254,"Plate5.1.2_F5","Plate5","Stain1",NA,"COV362.4",235,2930
+255,"Plate5.1.2_F2","Plate5","Stain1",NA,"COV362.4",95,2930
+256,"Plate5.1.3_F1","Plate5","Stain1",NA,"COV362.4",288,2930
+257,"Plate5.1.3_F5","Plate5","Stain1",NA,"COV362.4",153,2930
+258,"Plate5.1.3_F3","Plate5","Stain1",NA,"COV362.4",126,2930
+259,"Plate5.1.3_F4","Plate5","Stain1",NA,"COV362.4",98,2930
+260,"Plate5.1.3_F2","Plate5","Stain1",NA,"COV362.4",68,2930
+261,"Plate5.3.1_F1","Plate5","Stain1",NA,"COV644 NL",228,1885
+262,"Plate5.3.1_F5","Plate5","Stain1",NA,"COV644 NL",193,1885
+263,"Plate5.3.1_F2","Plate5","Stain1",NA,"COV644 NL",101,1885
+264,"Plate5.3.1_F3","Plate5","Stain1",NA,"COV644 NL",113,1885
+265,"Plate5.3.1_F4","Plate5","Stain1",NA,"COV644 NL",202,1885
+266,"Plate5.3.2_F4","Plate5","Stain1",NA,"COV644 NL",150,1885
+267,"Plate5.3.2_F3","Plate5","Stain1",NA,"COV644 NL",100,1885
+268,"Plate5.3.2_F1","Plate5","Stain1",NA,"COV644 NL",217,1885
+269,"Plate5.3.2_F2","Plate5","Stain1",NA,"COV644 NL",112,1885
+270,"Plate5.3.3_F5","Plate5","Stain1",NA,"COV644 NL",85,1885
+271,"Plate5.3.3_F1","Plate5","Stain1",NA,"COV644 NL",118,1885
+272,"Plate5.3.3_F3","Plate5","Stain1",NA,"COV644 NL",266,1885
+273,"Plate5.4.1_F3","Plate5","Stain1",NA,"IGROV-1",183,2079
+274,"Plate5.4.1_F5","Plate5","Stain1",NA,"IGROV-1",39,2079
+275,"Plate5.4.1_F1","Plate5","Stain1",NA,"IGROV-1",121,2079
+276,"Plate5.4.1_F2","Plate5","Stain1",NA,"IGROV-1",190,2079
+277,"Plate5.4.1_F4","Plate5","Stain1",NA,"IGROV-1",134,2079
+278,"Plate5.4.2_F1","Plate5","Stain1",NA,"IGROV-1",114,2079
+279,"Plate5.4.2_F4","Plate5","Stain1",NA,"IGROV-1",102,2079
+280,"Plate5.4.2_F5","Plate5","Stain1",NA,"IGROV-1",79,2079
+281,"Plate5.4.2_F3","Plate5","Stain1",NA,"IGROV-1",77,2079
+282,"Plate5.4.2_F2","Plate5","Stain1",NA,"IGROV-1",140,2079
+283,"Plate5.4.3_F5","Plate5","Stain1",NA,"IGROV-1",198,2079
+284,"Plate5.4.3_F2","Plate5","Stain1",NA,"IGROV-1",155,2079
+285,"Plate5.4.3_F4","Plate5","Stain1",NA,"IGROV-1",296,2079
+286,"Plate5.4.3_F1","Plate5","Stain1",NA,"IGROV-1",169,2079
+287,"Plate5.4.3_F3","Plate5","Stain1",NA,"IGROV-1",82,2079
+288,"Plate5.5.1_F5","Plate5","Stain1",NA,"PEO1",165,2621
+289,"Plate5.5.1_F1","Plate5","Stain1",NA,"PEO1",216,2621
+290,"Plate5.5.1_F3","Plate5","Stain1",NA,"PEO1",110,2621
+291,"Plate5.5.1_F2","Plate5","Stain1",NA,"PEO1",253,2621
+292,"Plate5.5.1_F4","Plate5","Stain1",NA,"PEO1",55,2621
+293,"Plate5.5.2_F3","Plate5","Stain1",NA,"PEO1",210,2621
+294,"Plate5.5.2_F2","Plate5","Stain1",NA,"PEO1",266,2621
+295,"Plate5.5.2_F4","Plate5","Stain1",NA,"PEO1",176,2621
+296,"Plate5.5.2_F1","Plate5","Stain1",NA,"PEO1",82,2621
+297,"Plate5.5.2_F5","Plate5","Stain1",NA,"PEO1",172,2621
+298,"Plate5.5.3_F3","Plate5","Stain1",NA,"PEO1",208,2621
+299,"Plate5.5.3_F4","Plate5","Stain1",NA,"PEO1",203,2621
+300,"Plate5.5.3_F5","Plate5","Stain1",NA,"PEO1",75,2621
+301,"Plate5.5.3_F1","Plate5","Stain1",NA,"PEO1",107,2621
+302,"Plate5.5.3_F2","Plate5","Stain1",NA,"PEO1",323,2621
+303,"Plate5.6.1_F1","Plate5","Stain1",NA,"PEO14",45,514
+304,"Plate5.6.1_F4","Plate5","Stain1",NA,"PEO14",53,514
+305,"Plate5.6.1_F2","Plate5","Stain1",NA,"PEO14",44,514
+306,"Plate5.6.2_F3","Plate5","Stain1",NA,"PEO14",32,514
+307,"Plate5.6.2_F1","Plate5","Stain1",NA,"PEO14",44,514
+308,"Plate5.6.2_F5","Plate5","Stain1",NA,"PEO14",55,514
+309,"Plate5.6.2_F4","Plate5","Stain1",NA,"PEO14",33,514
+310,"Plate5.6.3_F1","Plate5","Stain1",NA,"PEO14",42,514
+311,"Plate5.6.3_F2","Plate5","Stain1",NA,"PEO14",46,514
+312,"Plate5.6.3_F3","Plate5","Stain1",NA,"PEO14",37,514
+313,"Plate5.6.3_F4","Plate5","Stain1",NA,"PEO14",83,514
+314,"Plate6.1.1_F1","Plate6","Stain1",NA,"ES-2",146,1916
+315,"Plate6.1.2_F1","Plate6","Stain1",NA,"ES-2",265,1916
+316,"Plate6.1.3_F1","Plate6","Stain1",NA,"ES-2",203,1916
+317,"Plate6.1.3_F2","Plate6","Stain1",NA,"ES-2",42,1916
+318,"Plate6.2.1_F5","Plate6","Stain1",NA,"HOC-7",199,2408
+319,"Plate6.2.1_F1","Plate6","Stain1",NA,"HOC-7",179,2408
+320,"Plate6.2.1_F4","Plate6","Stain1",NA,"HOC-7",167,2408
+321,"Plate6.2.1_F3","Plate6","Stain1",NA,"HOC-7",156,2408
+322,"Plate6.2.1_F2","Plate6","Stain1",NA,"HOC-7",79,2408
+323,"Plate6.2.2_F2","Plate6","Stain1",NA,"HOC-7",126,2408
+324,"Plate6.2.2_F3","Plate6","Stain1",NA,"HOC-7",201,2408
+325,"Plate6.2.2_F4","Plate6","Stain1",NA,"HOC-7",204,2408
+326,"Plate6.2.2_F1","Plate6","Stain1",NA,"HOC-7",159,2408
+327,"Plate6.2.2_F5","Plate6","Stain1",NA,"HOC-7",164,2408
+328,"Plate6.2.3_F1","Plate6","Stain1",NA,"HOC-7",148,2408
+329,"Plate6.2.3_F2","Plate6","Stain1",NA,"HOC-7",122,2408
+330,"Plate6.2.3_F3","Plate6","Stain1",NA,"HOC-7",177,2408
+331,"Plate6.2.3_F5","Plate6","Stain1",NA,"HOC-7",177,2408
+332,"Plate6.2.3_F4","Plate6","Stain1",NA,"HOC-7",150,2408
+333,"Plate6.3.1_F3","Plate6","Stain1",NA,"OVCAR-8",141,1430
+334,"Plate6.3.1_F5","Plate6","Stain1",NA,"OVCAR-8",207,1430
+335,"Plate6.3.1_F2","Plate6","Stain1",NA,"OVCAR-8",112,1430
+336,"Plate6.3.1_F1","Plate6","Stain1",NA,"OVCAR-8",152,1430
+337,"Plate6.3.2_F3","Plate6","Stain1",NA,"OVCAR-8",149,1430
+338,"Plate6.3.2_F5","Plate6","Stain1",NA,"OVCAR-8",56,1430
+339,"Plate6.3.2_F2","Plate6","Stain1",NA,"OVCAR-8",146,1430
+340,"Plate6.3.2_F1","Plate6","Stain1",NA,"OVCAR-8",126,1430
+341,"Plate6.3.3_F2","Plate6","Stain1",NA,"OVCAR-8",56,1430
+342,"Plate6.3.3_F1","Plate6","Stain1",NA,"OVCAR-8",153,1430
+343,"Plate6.3.3_F3","Plate6","Stain1",NA,"OVCAR-8",68,1430
+344,"Plate6.3.3_F5","Plate6","Stain1",NA,"OVCAR-8",64,1430
+345,"Plate7.1.1_F1","Plate7","Stain1",NA,"CIOV6",73,409
+346,"Plate7.1.1_F2","Plate7","Stain1",NA,"CIOV6",64,409
+347,"Plate7.1.2_F1","Plate7","Stain1",NA,"CIOV6",128,409
+348,"Plate7.1.3_F1","Plate7","Stain1",NA,"CIOV6",74,409
+349,"Plate7.1.3_F5","Plate7","Stain1",NA,"CIOV6",70,409
+350,"Plate7.2.1_F1","Plate7","Stain1",NA,"COV413A",213,443
+351,"Plate7.2.2_F1","Plate7","Stain1",NA,"COV413A",115,443
+352,"Plate7.2.2_F2","Plate7","Stain1",NA,"COV413A",30,443
+353,"Plate7.2.3_F1","Plate7","Stain1",NA,"COV413A",85,443
+354,"Plate7.3.1_F5","Plate7","Stain1",NA,"PEO16",39,490
+355,"Plate7.3.1_F4","Plate7","Stain1",NA,"PEO16",35,490
+356,"Plate7.3.1_F1","Plate7","Stain1",NA,"PEO16",73,490
+357,"Plate7.3.1_F2","Plate7","Stain1",NA,"PEO16",49,490
+358,"Plate7.3.2_F1","Plate7","Stain1",NA,"PEO16",106,490
+359,"Plate7.3.2_F2","Plate7","Stain1",NA,"PEO16",60,490
+360,"Plate7.3.3_F5","Plate7","Stain1",NA,"PEO16",35,490
+361,"Plate7.3.3_F2","Plate7","Stain1",NA,"PEO16",37,490
+362,"Plate7.3.3_F1","Plate7","Stain1",NA,"PEO16",56,490
+363,"Plate7.4.1_F5","Plate7","Stain1",NA,"PEO4",31,2265
+364,"Plate7.4.1_F4","Plate7","Stain1",NA,"PEO4",100,2265
+365,"Plate7.4.1_F3","Plate7","Stain1",NA,"PEO4",102,2265
+366,"Plate7.4.1_F1","Plate7","Stain1",NA,"PEO4",158,2265
+367,"Plate7.4.1_F2","Plate7","Stain1",NA,"PEO4",246,2265
+368,"Plate7.4.2_F5","Plate7","Stain1",NA,"PEO4",165,2265
+369,"Plate7.4.2_F4","Plate7","Stain1",NA,"PEO4",93,2265
+370,"Plate7.4.2_F3","Plate7","Stain1",NA,"PEO4",87,2265
+371,"Plate7.4.2_F2","Plate7","Stain1",NA,"PEO4",338,2265
+372,"Plate7.4.2_F1","Plate7","Stain1",NA,"PEO4",131,2265
+373,"Plate7.4.3_F4","Plate7","Stain1",NA,"PEO4",163,2265
+374,"Plate7.4.3_F2","Plate7","Stain1",NA,"PEO4",208,2265
+375,"Plate7.4.3_F1","Plate7","Stain1",NA,"PEO4",187,2265
+376,"Plate7.4.3_F3","Plate7","Stain1",NA,"PEO4",132,2265
+377,"Plate7.4.3_F5","Plate7","Stain1",NA,"PEO4",124,2265
+378,"Plate7.5.1_F2","Plate7","Stain1",NA,"PEO6",99,414
+379,"Plate7.5.1_F4","Plate7","Stain1",NA,"PEO6",42,414
+380,"Plate7.5.2_F5","Plate7","Stain1",NA,"PEO6",48,414
+381,"Plate7.5.2_F3","Plate7","Stain1",NA,"PEO6",63,414
+382,"Plate7.5.3_F2","Plate7","Stain1",NA,"PEO6",95,414
+383,"Plate7.5.3_F3","Plate7","Stain1",NA,"PEO6",34,414
+384,"Plate7.5.3_F1","Plate7","Stain1",NA,"PEO6",33,414
+385,"Plate8.1.1_F3","Plate8","Stain1",NA,"OAW42 NL",84,1581
+386,"Plate8.1.1_F4","Plate8","Stain1",NA,"OAW42 NL",100,1581
+387,"Plate8.1.1_F5","Plate8","Stain1",NA,"OAW42 NL",96,1581
+388,"Plate8.1.1_F1","Plate8","Stain1",NA,"OAW42 NL",106,1581
+389,"Plate8.1.1_F2","Plate8","Stain1",NA,"OAW42 NL",93,1581
+390,"Plate8.1.2_F4","Plate8","Stain1",NA,"OAW42 NL",56,1581
+391,"Plate8.1.2_F5","Plate8","Stain1",NA,"OAW42 NL",106,1581
+392,"Plate8.1.2_F3","Plate8","Stain1",NA,"OAW42 NL",73,1581
+393,"Plate8.1.2_F2","Plate8","Stain1",NA,"OAW42 NL",110,1581
+394,"Plate8.1.2_F1","Plate8","Stain1",NA,"OAW42 NL",143,1581
+395,"Plate8.1.3_F3","Plate8","Stain1",NA,"OAW42 NL",92,1581
+396,"Plate8.1.3_F5","Plate8","Stain1",NA,"OAW42 NL",145,1581
+397,"Plate8.1.3_F2","Plate8","Stain1",NA,"OAW42 NL",131,1581
+398,"Plate8.1.3_F1","Plate8","Stain1",NA,"OAW42 NL",118,1581
+399,"Plate8.1.3_F4","Plate8","Stain1",NA,"OAW42 NL",128,1581
+400,"Plate8.2.1_F2","Plate8","Stain1",NA,"OV17R NL",58,516
+401,"Plate8.2.1_F4","Plate8","Stain1",NA,"OV17R NL",80,516
+402,"Plate8.2.1_F1","Plate8","Stain1",NA,"OV17R NL",45,516
+403,"Plate8.2.2_F3","Plate8","Stain1",NA,"OV17R NL",41,516
+404,"Plate8.2.2_F5","Plate8","Stain1",NA,"OV17R NL",56,516
+405,"Plate8.2.3_F2","Plate8","Stain1",NA,"OV17R NL",31,516
+406,"Plate8.2.3_F1","Plate8","Stain1",NA,"OV17R NL",104,516
+407,"Plate8.2.3_F3","Plate8","Stain1",NA,"OV17R NL",101,516
+408,"Plate8.4.1_F3","Plate8","Stain1",NA,"OVCAR-5",235,1256
+409,"Plate8.4.1_F5","Plate8","Stain1",NA,"OVCAR-5",81,1256
+410,"Plate8.4.1_F1","Plate8","Stain1",NA,"OVCAR-5",100,1256
+411,"Plate8.4.1_F4","Plate8","Stain1",NA,"OVCAR-5",37,1256
+412,"Plate8.4.2_F2","Plate8","Stain1",NA,"OVCAR-5",85,1256
+413,"Plate8.4.2_F4","Plate8","Stain1",NA,"OVCAR-5",61,1256
+414,"Plate8.4.2_F1","Plate8","Stain1",NA,"OVCAR-5",83,1256
+415,"Plate8.4.2_F5","Plate8","Stain1",NA,"OVCAR-5",81,1256
+416,"Plate8.4.2_F3","Plate8","Stain1",NA,"OVCAR-5",54,1256
+417,"Plate8.4.3_F1","Plate8","Stain1",NA,"OVCAR-5",102,1256
+418,"Plate8.4.3_F2","Plate8","Stain1",NA,"OVCAR-5",135,1256
+419,"Plate8.4.3_F3","Plate8","Stain1",NA,"OVCAR-5",85,1256
+420,"Plate8.4.3_F5","Plate8","Stain1",NA,"OVCAR-5",48,1256
+421,"Plate8.4.3_F4","Plate8","Stain1",NA,"OVCAR-5",69,1256
+422,"Plate8.5.1_F5","Plate8","Stain1",NA,"PEA1",47,293
+423,"Plate8.5.2_F1","Plate8","Stain1",NA,"PEA1",39,293
+424,"Plate8.5.2_F5","Plate8","Stain1",NA,"PEA1",46,293
+425,"Plate8.5.3_F3","Plate8","Stain1",NA,"PEA1",56,293
+426,"Plate8.5.3_F1","Plate8","Stain1",NA,"PEA1",38,293
+427,"Plate8.5.3_F5","Plate8","Stain1",NA,"PEA1",67,293
+428,"Plate10.1.2_F1","Plate10","Stain1",NA,"FT194",38,1648
+429,"Plate10.2.2_F5","Plate10","Stain1",NA,"FT246",43,500
+430,"Plate10.4.1_F2","Plate10","Stain1",NA,"OAW28 NL",97,886
+431,"Plate10.4.1_F1","Plate10","Stain1",NA,"OAW28 NL",59,886
+432,"Plate10.4.1_F3","Plate10","Stain1",NA,"OAW28 NL",73,886
+433,"Plate10.4.1_F4","Plate10","Stain1",NA,"OAW28 NL",69,886
+434,"Plate10.4.2_F5","Plate10","Stain1",NA,"OAW28 NL",65,886
+435,"Plate10.4.2_F3","Plate10","Stain1",NA,"OAW28 NL",98,886
+436,"Plate10.4.2_F4","Plate10","Stain1",NA,"OAW28 NL",77,886
+437,"Plate10.4.2_F1","Plate10","Stain1",NA,"OAW28 NL",39,886
+438,"Plate10.4.2_F2","Plate10","Stain1",NA,"OAW28 NL",62,886
+439,"Plate10.4.3_F2","Plate10","Stain1",NA,"OAW28 NL",79,886
+440,"Plate10.4.3_F3","Plate10","Stain1",NA,"OAW28 NL",50,886
+441,"Plate10.4.3_F4","Plate10","Stain1",NA,"OAW28 NL",43,886
+442,"Plate10.4.3_F1","Plate10","Stain1",NA,"OAW28 NL",43,886
+443,"Plate10.4.3_F5","Plate10","Stain1",NA,"OAW28 NL",32,886
+444,"Plate10.5.1_F3","Plate10","Stain1",NA,"OVSAHO",120,1280
+445,"Plate10.5.1_F5","Plate10","Stain1",NA,"OVSAHO",95,1280
+446,"Plate10.5.1_F2","Plate10","Stain1",NA,"OVSAHO",50,1280
+447,"Plate10.5.1_F4","Plate10","Stain1",NA,"OVSAHO",40,1280
+448,"Plate10.5.1_F1","Plate10","Stain1",NA,"OVSAHO",75,1280
+449,"Plate10.5.2_F4","Plate10","Stain1",NA,"OVSAHO",39,1280
+450,"Plate10.5.2_F3","Plate10","Stain1",NA,"OVSAHO",102,1280
+451,"Plate10.5.2_F1","Plate10","Stain1",NA,"OVSAHO",95,1280
+452,"Plate10.5.2_F5","Plate10","Stain1",NA,"OVSAHO",124,1280
+453,"Plate10.5.2_F2","Plate10","Stain1",NA,"OVSAHO",71,1280
+454,"Plate10.5.3_F2","Plate10","Stain1",NA,"OVSAHO",68,1280
+455,"Plate10.5.3_F3","Plate10","Stain1",NA,"OVSAHO",124,1280
+456,"Plate10.5.3_F5","Plate10","Stain1",NA,"OVSAHO",136,1280
+457,"Plate10.5.3_F1","Plate10","Stain1",NA,"OVSAHO",79,1280
+458,"Plate10.5.3_F4","Plate10","Stain1",NA,"OVSAHO",62,1280
+459,"Plate11.1.1_F1","Plate11","Stain1",NA,"OV-1369(2)",129,590
+460,"Plate11.1.1_F3","Plate11","Stain1",NA,"OV-1369(2)",43,590
+461,"Plate11.1.1_F5","Plate11","Stain1",NA,"OV-1369(2)",35,590
+462,"Plate11.1.2_F1","Plate11","Stain1",NA,"OV-1369(2)",124,590
+463,"Plate11.1.2_F2","Plate11","Stain1",NA,"OV-1369(2)",43,590
+464,"Plate11.1.2_F5","Plate11","Stain1",NA,"OV-1369(2)",31,590
+465,"Plate11.1.3_F1","Plate11","Stain1",NA,"OV-1369(2)",123,590
+466,"Plate11.1.3_F5","Plate11","Stain1",NA,"OV-1369(2)",62,590
+467,"Plate11.2.1_F1","Plate11","Stain1",NA,"OV-1946",49,742
+468,"Plate11.2.3_F1","Plate11","Stain1",NA,"OV-1946",48,742
+469,"Plate11.3.1_F1","Plate11","Stain1",NA,"OV-2085",112,1280
+470,"Plate11.3.1_F2","Plate11","Stain1",NA,"OV-2085",76,1280
+471,"Plate11.3.1_F3","Plate11","Stain1",NA,"OV-2085",58,1280
+472,"Plate11.3.2_F1","Plate11","Stain1",NA,"OV-2085",171,1280
+473,"Plate11.3.2_F2","Plate11","Stain1",NA,"OV-2085",94,1280
+474,"Plate11.3.2_F3","Plate11","Stain1",NA,"OV-2085",63,1280
+475,"Plate11.3.2_F4","Plate11","Stain1",NA,"OV-2085",99,1280
+476,"Plate11.3.2_F5","Plate11","Stain1",NA,"OV-2085",149,1280
+477,"Plate11.3.3_F1","Plate11","Stain1",NA,"OV-2085",181,1280
+478,"Plate11.3.3_F2","Plate11","Stain1",NA,"OV-2085",65,1280
+479,"Plate11.3.3_F3","Plate11","Stain1",NA,"OV-2085",48,1280
+480,"Plate11.3.3_F4","Plate11","Stain1",NA,"OV-2085",33,1280
+481,"Plate11.3.3_F5","Plate11","Stain1",NA,"OV-2085",131,1280
+482,"Plate11.4.1_F1","Plate11","Stain1",NA,"OV-2085(2)",156,2124
+483,"Plate11.4.1_F2","Plate11","Stain1",NA,"OV-2085(2)",120,2124
+484,"Plate11.4.1_F3","Plate11","Stain1",NA,"OV-2085(2)",86,2124
+485,"Plate11.4.1_F4","Plate11","Stain1",NA,"OV-2085(2)",100,2124
+486,"Plate11.4.1_F5","Plate11","Stain1",NA,"OV-2085(2)",72,2124
+487,"Plate11.4.2_F1","Plate11","Stain1",NA,"OV-2085(2)",162,2124
+488,"Plate11.4.2_F2","Plate11","Stain1",NA,"OV-2085(2)",174,2124
+489,"Plate11.4.2_F3","Plate11","Stain1",NA,"OV-2085(2)",145,2124
+490,"Plate11.4.2_F4","Plate11","Stain1",NA,"OV-2085(2)",135,2124
+491,"Plate11.4.2_F5","Plate11","Stain1",NA,"OV-2085(2)",164,2124
+492,"Plate11.4.3_F1","Plate11","Stain1",NA,"OV-2085(2)",167,2124
+493,"Plate11.4.3_F2","Plate11","Stain1",NA,"OV-2085(2)",185,2124
+494,"Plate11.4.3_F3","Plate11","Stain1",NA,"OV-2085(2)",155,2124
+495,"Plate11.4.3_F4","Plate11","Stain1",NA,"OV-2085(2)",162,2124
+496,"Plate11.4.3_F5","Plate11","Stain1",NA,"OV-2085(2)",141,2124
+497,"Plate11.5.1_F1","Plate11","Stain1",NA,"OV-2978",97,1288
+498,"Plate11.5.1_F2","Plate11","Stain1",NA,"OV-2978",67,1288
+499,"Plate11.5.1_F3","Plate11","Stain1",NA,"OV-2978",98,1288
+500,"Plate11.5.1_F4","Plate11","Stain1",NA,"OV-2978",87,1288
+501,"Plate11.5.1_F5","Plate11","Stain1",NA,"OV-2978",71,1288
+502,"Plate11.5.2_F1","Plate11","Stain1",NA,"OV-2978",114,1288
+503,"Plate11.5.2_F2","Plate11","Stain1",NA,"OV-2978",91,1288
+504,"Plate11.5.2_F3","Plate11","Stain1",NA,"OV-2978",80,1288
+505,"Plate11.5.2_F4","Plate11","Stain1",NA,"OV-2978",50,1288
+506,"Plate11.5.2_F5","Plate11","Stain1",NA,"OV-2978",120,1288
+507,"Plate11.5.3_F1","Plate11","Stain1",NA,"OV-2978",79,1288
+508,"Plate11.5.3_F2","Plate11","Stain1",NA,"OV-2978",75,1288
+509,"Plate11.5.3_F3","Plate11","Stain1",NA,"OV-2978",88,1288
+510,"Plate11.5.3_F4","Plate11","Stain1",NA,"OV-2978",84,1288
+511,"Plate11.5.3_F5","Plate11","Stain1",NA,"OV-2978",87,1288
+512,"Plate11.6.1_F1","Plate11","Stain1",NA,"OV-3133",63,1718
+513,"Plate11.6.1_F2","Plate11","Stain1",NA,"OV-3133",94,1718
+514,"Plate11.6.1_F3","Plate11","Stain1",NA,"OV-3133",73,1718
+515,"Plate11.6.1_F4","Plate11","Stain1",NA,"OV-3133",90,1718
+516,"Plate11.6.1_F5","Plate11","Stain1",NA,"OV-3133",95,1718
+517,"Plate11.6.2_F1","Plate11","Stain1",NA,"OV-3133",158,1718
+518,"Plate11.6.2_F2","Plate11","Stain1",NA,"OV-3133",124,1718
+519,"Plate11.6.2_F3","Plate11","Stain1",NA,"OV-3133",149,1718
+520,"Plate11.6.2_F4","Plate11","Stain1",NA,"OV-3133",106,1718
+521,"Plate11.6.2_F5","Plate11","Stain1",NA,"OV-3133",116,1718
+522,"Plate11.6.3_F1","Plate11","Stain1",NA,"OV-3133",109,1718
+523,"Plate11.6.3_F2","Plate11","Stain1",NA,"OV-3133",178,1718
+524,"Plate11.6.3_F3","Plate11","Stain1",NA,"OV-3133",127,1718
+525,"Plate11.6.3_F4","Plate11","Stain1",NA,"OV-3133",136,1718
+526,"Plate11.6.3_F5","Plate11","Stain1",NA,"OV-3133",100,1718
+527,"Plate11.7.1_F1","Plate11","Stain1",NA,"OV-4453",91,1365
+528,"Plate11.7.1_F3","Plate11","Stain1",NA,"OV-4453",82,1365
+529,"Plate11.7.1_F5","Plate11","Stain1",NA,"OV-4453",79,1365
+530,"Plate11.7.2_F1","Plate11","Stain1",NA,"OV-4453",138,1365
+531,"Plate11.7.2_F2","Plate11","Stain1",NA,"OV-4453",123,1365
+532,"Plate11.7.2_F3","Plate11","Stain1",NA,"OV-4453",137,1365
+533,"Plate11.7.2_F4","Plate11","Stain1",NA,"OV-4453",102,1365
+534,"Plate11.7.2_F5","Plate11","Stain1",NA,"OV-4453",108,1365
+535,"Plate11.7.3_F1","Plate11","Stain1",NA,"OV-4453",116,1365
+536,"Plate11.7.3_F2","Plate11","Stain1",NA,"OV-4453",96,1365
+537,"Plate11.7.3_F3","Plate11","Stain1",NA,"OV-4453",76,1365
+538,"Plate11.7.3_F4","Plate11","Stain1",NA,"OV-4453",90,1365
+539,"Plate11.7.3_F5","Plate11","Stain1",NA,"OV-4453",127,1365
+540,"Plate11.8.2_F2","Plate11","Stain1",NA,"OV-4485",32,1672
+541,"Plate11.8.2_F3","Plate11","Stain1",NA,"OV-4485",67,1672
+542,"Plate11.8.3_F1","Plate11","Stain1",NA,"OV-4485",46,1672
+543,"Plate11.8.3_F3","Plate11","Stain1",NA,"OV-4485",38,1672
+544,"Plate12.1.1_F3","Plate12","Stain1",NA,"OV-2295",57,995
+545,"Plate12.1.1_F5","Plate12","Stain1",NA,"OV-2295",141,995
+546,"Plate12.1.1_F1","Plate12","Stain1",NA,"OV-2295",82,995
+547,"Plate12.1.2_F2","Plate12","Stain1",NA,"OV-2295",37,995
+548,"Plate12.1.2_F5","Plate12","Stain1",NA,"OV-2295",54,995
+549,"Plate12.1.2_F1","Plate12","Stain1",NA,"OV-2295",98,995
+550,"Plate12.1.2_F3","Plate12","Stain1",NA,"OV-2295",67,995
+551,"Plate12.1.3_F1","Plate12","Stain1",NA,"OV-2295",192,995
+552,"Plate12.1.3_F3","Plate12","Stain1",NA,"OV-2295",88,995
+553,"Plate12.1.3_F2","Plate12","Stain1",NA,"OV-2295",101,995
+554,"Plate12.1.3_F5","Plate12","Stain1",NA,"OV-2295",78,995
+555,"Plate12.2.1_F3","Plate12","Stain1",NA,"OV-2295(2)",44,530
+556,"Plate12.2.1_F5","Plate12","Stain1",NA,"OV-2295(2)",41,530
+557,"Plate12.2.1_F4","Plate12","Stain1",NA,"OV-2295(2)",57,530
+558,"Plate12.2.2_F4","Plate12","Stain1",NA,"OV-2295(2)",37,530
+559,"Plate12.2.2_F2","Plate12","Stain1",NA,"OV-2295(2)",32,530
+560,"Plate12.2.2_F3","Plate12","Stain1",NA,"OV-2295(2)",43,530
+561,"Plate12.2.2_F1","Plate12","Stain1",NA,"OV-2295(2)",30,530
+562,"Plate12.2.3_F4","Plate12","Stain1",NA,"OV-2295(2)",82,530
+563,"Plate12.2.3_F1","Plate12","Stain1",NA,"OV-2295(2)",47,530
+564,"Plate12.2.3_F2","Plate12","Stain1",NA,"OV-2295(2)",43,530
+565,"Plate12.2.3_F5","Plate12","Stain1",NA,"OV-2295(2)",30,530
+566,"Plate12.2.3_F3","Plate12","Stain1",NA,"OV-2295(2)",44,530
+567,"Plate12.3.1_F4","Plate12","Stain1",NA,"OV-3331",134,1976
+568,"Plate12.3.1_F1","Plate12","Stain1",NA,"OV-3331",179,1976
+569,"Plate12.3.1_F3","Plate12","Stain1",NA,"OV-3331",143,1976
+570,"Plate12.3.1_F2","Plate12","Stain1",NA,"OV-3331",97,1976
+571,"Plate12.3.1_F5","Plate12","Stain1",NA,"OV-3331",189,1976
+572,"Plate12.3.2_F3","Plate12","Stain1",NA,"OV-3331",139,1976
+573,"Plate12.3.2_F2","Plate12","Stain1",NA,"OV-3331",162,1976
+574,"Plate12.3.2_F4","Plate12","Stain1",NA,"OV-3331",109,1976
+575,"Plate12.3.2_F1","Plate12","Stain1",NA,"OV-3331",130,1976
+576,"Plate12.3.2_F5","Plate12","Stain1",NA,"OV-3331",165,1976
+577,"Plate12.3.3_F4","Plate12","Stain1",NA,"OV-3331",141,1976
+578,"Plate12.3.3_F1","Plate12","Stain1",NA,"OV-3331",127,1976
+579,"Plate12.3.3_F2","Plate12","Stain1",NA,"OV-3331",148,1976
+580,"Plate12.3.3_F3","Plate12","Stain1",NA,"OV-3331",113,1976
+581,"Plate13.1.1_F1","Plate13","Stain1",NA,"A2780",263,4457
+582,"Plate13.1.1_F5","Plate13","Stain1",NA,"A2780",264,4457
+583,"Plate13.1.1_F3","Plate13","Stain1",NA,"A2780",312,4457
+584,"Plate13.1.1_F2","Plate13","Stain1",NA,"A2780",337,4457
+585,"Plate13.1.1_F4","Plate13","Stain1",NA,"A2780",304,4457
+586,"Plate13.1.2_F1","Plate13","Stain1",NA,"A2780",321,4457
+587,"Plate13.1.2_F3","Plate13","Stain1",NA,"A2780",345,4457
+588,"Plate13.1.2_F2","Plate13","Stain1",NA,"A2780",347,4457
+589,"Plate13.1.2_F4","Plate13","Stain1",NA,"A2780",287,4457
+590,"Plate13.1.2_F5","Plate13","Stain1",NA,"A2780",310,4457
+591,"Plate13.1.3_F3","Plate13","Stain1",NA,"A2780",147,4457
+592,"Plate13.1.3_F2","Plate13","Stain1",NA,"A2780",369,4457
+593,"Plate13.1.3_F1","Plate13","Stain1",NA,"A2780",324,4457
+594,"Plate13.1.3_F5","Plate13","Stain1",NA,"A2780",248,4457
+595,"Plate13.1.3_F4","Plate13","Stain1",NA,"A2780",279,4457
+596,"Plate13.2.1_F1","Plate13","Stain1",NA,"OV-90",80,891
+597,"Plate13.2.1_F5","Plate13","Stain1",NA,"OV-90",77,891
+598,"Plate13.2.1_F2","Plate13","Stain1",NA,"OV-90",43,891
+599,"Plate13.2.2_F5","Plate13","Stain1",NA,"OV-90",97,891
+600,"Plate13.2.2_F1","Plate13","Stain1",NA,"OV-90",50,891
+601,"Plate13.2.2_F2","Plate13","Stain1",NA,"OV-90",30,891
+602,"Plate13.2.2_F3","Plate13","Stain1",NA,"OV-90",40,891
+603,"Plate13.2.3_F4","Plate13","Stain1",NA,"OV-90",107,891
+604,"Plate13.2.3_F3","Plate13","Stain1",NA,"OV-90",143,891
+605,"Plate13.2.3_F5","Plate13","Stain1",NA,"OV-90",67,891
+606,"Plate13.2.3_F2","Plate13","Stain1",NA,"OV-90",77,891
+607,"Plate13.2.3_F1","Plate13","Stain1",NA,"OV-90",80,891
+608,"Plate14.1.1_F1","Plate14","Stain1",NA,"OV-3133(2)",159,1049
+609,"Plate14.1.1_F5","Plate14","Stain1",NA,"OV-3133(2)",81,1049
+610,"Plate14.1.1_F2","Plate14","Stain1",NA,"OV-3133(2)",38,1049
+611,"Plate14.1.2_F1","Plate14","Stain1",NA,"OV-3133(2)",199,1049
+612,"Plate14.1.2_F5","Plate14","Stain1",NA,"OV-3133(2)",165,1049
+613,"Plate14.1.3_F1","Plate14","Stain1",NA,"OV-3133(2)",220,1049
+614,"Plate14.1.3_F2","Plate14","Stain1",NA,"OV-3133(2)",52,1049
+615,"Plate14.1.3_F5","Plate14","Stain1",NA,"OV-3133(2)",135,1049
+616,"Plate14.2.1_F1","Plate14","Stain1",NA,"OV-866(2)",49,225
+617,"Plate14.2.2_F1","Plate14","Stain1",NA,"OV-866(2)",33,225
+618,"Plate14.2.2_F5","Plate14","Stain1",NA,"OV-866(2)",35,225
+619,"Plate14.2.3_F5","Plate14","Stain1",NA,"OV-866(2)",48,225
+620,"Plate14.2.3_F1","Plate14","Stain1",NA,"OV-866(2)",60,225
+621,"Plate14.3.1_F1","Plate14","Stain1",NA,"OV-90(MesMasson)",122,706
+622,"Plate14.3.2_F1","Plate14","Stain1",NA,"OV-90(MesMasson)",134,706
+623,"Plate14.3.2_F2","Plate14","Stain1",NA,"OV-90(MesMasson)",92,706
+624,"Plate14.3.3_F5","Plate14","Stain1",NA,"OV-90(MesMasson)",64,706
+625,"Plate14.3.3_F1","Plate14","Stain1",NA,"OV-90(MesMasson)",155,706
+626,"Plate14.3.3_F4","Plate14","Stain1",NA,"OV-90(MesMasson)",86,706
+627,"Plate14.3.3_F2","Plate14","Stain1",NA,"OV-90(MesMasson)",53,706
+628,"Plate14.4.1_F1","Plate14","Stain1",NA,"TOV-1369M",119,1020
+629,"Plate14.4.1_F2","Plate14","Stain1",NA,"TOV-1369M",84,1020
+630,"Plate14.4.1_F5","Plate14","Stain1",NA,"TOV-1369M",102,1020
+631,"Plate14.4.1_F4","Plate14","Stain1",NA,"TOV-1369M",64,1020
+632,"Plate14.4.2_F2","Plate14","Stain1",NA,"TOV-1369M",48,1020
+633,"Plate14.4.2_F4","Plate14","Stain1",NA,"TOV-1369M",92,1020
+634,"Plate14.4.2_F1","Plate14","Stain1",NA,"TOV-1369M",123,1020
+635,"Plate14.4.2_F5","Plate14","Stain1",NA,"TOV-1369M",75,1020
+636,"Plate14.4.3_F5","Plate14","Stain1",NA,"TOV-1369M",97,1020
+637,"Plate14.4.3_F1","Plate14","Stain1",NA,"TOV-1369M",138,1020
+638,"Plate14.4.3_F2","Plate14","Stain1",NA,"TOV-1369M",78,1020
+639,"Plate14.5.1_F2","Plate14","Stain1",NA,"OV-4485",115,1672
+640,"Plate14.5.1_F4","Plate14","Stain1",NA,"OV-4485",38,1672
+641,"Plate14.5.1_F1","Plate14","Stain1",NA,"OV-4485",132,1672
+642,"Plate14.5.1_F3","Plate14","Stain1",NA,"OV-4485",103,1672
+643,"Plate14.5.1_F5","Plate14","Stain1",NA,"OV-4485",97,1672
+644,"Plate14.5.2_F4","Plate14","Stain1",NA,"OV-4485",113,1672
+645,"Plate14.5.2_F5","Plate14","Stain1",NA,"OV-4485",142,1672
+646,"Plate14.5.2_F1","Plate14","Stain1",NA,"OV-4485",60,1672
+647,"Plate14.5.2_F3","Plate14","Stain1",NA,"OV-4485",68,1672
+648,"Plate14.5.2_F2","Plate14","Stain1",NA,"OV-4485",127,1672
+649,"Plate14.5.3_F5","Plate14","Stain1",NA,"OV-4485",159,1672
+650,"Plate14.5.3_F3","Plate14","Stain1",NA,"OV-4485",90,1672
+651,"Plate14.5.3_F1","Plate14","Stain1",NA,"OV-4485",119,1672
+652,"Plate14.5.3_F2","Plate14","Stain1",NA,"OV-4485",126,1672
+653,"Plate15.6.1_F2","Plate15","Stain1",NA,"PEA2",47,535
+654,"Plate15.6.1_F4","Plate15","Stain1",NA,"PEA2",70,535
+655,"Plate15.6.1_F5","Plate15","Stain1",NA,"PEA2",39,535
+656,"Plate15.6.1_F1","Plate15","Stain1",NA,"PEA2",31,535
+657,"Plate15.6.1_F3","Plate15","Stain1",NA,"PEA2",37,535
+658,"Plate15.6.2_F4","Plate15","Stain1",NA,"PEA2",68,535
+659,"Plate15.6.2_F2","Plate15","Stain1",NA,"PEA2",43,535
+660,"Plate15.6.2_F5","Plate15","Stain1",NA,"PEA2",34,535
+661,"Plate15.6.3_F1","Plate15","Stain1",NA,"PEA2",46,535
+662,"Plate15.6.3_F2","Plate15","Stain1",NA,"PEA2",46,535
+663,"Plate15.6.3_F5","Plate15","Stain1",NA,"PEA2",43,535
+664,"Plate15.6.3_F4","Plate15","Stain1",NA,"PEA2",31,535
+665,"Plate15.7.1_F2","Plate15","Stain1",NA,"PEO23",64,1397
+666,"Plate15.7.1_F4","Plate15","Stain1",NA,"PEO23",144,1397
+667,"Plate15.7.1_F1","Plate15","Stain1",NA,"PEO23",71,1397
+668,"Plate15.7.1_F3","Plate15","Stain1",NA,"PEO23",72,1397
+669,"Plate15.7.1_F5","Plate15","Stain1",NA,"PEO23",78,1397
+670,"Plate15.7.2_F2","Plate15","Stain1",NA,"PEO23",66,1397
+671,"Plate15.7.2_F3","Plate15","Stain1",NA,"PEO23",79,1397
+672,"Plate15.7.2_F1","Plate15","Stain1",NA,"PEO23",64,1397
+673,"Plate15.7.2_F4","Plate15","Stain1",NA,"PEO23",123,1397
+674,"Plate15.7.2_F5","Plate15","Stain1",NA,"PEO23",110,1397
+675,"Plate15.7.3_F1","Plate15","Stain1",NA,"PEO23",90,1397
+676,"Plate15.7.3_F5","Plate15","Stain1",NA,"PEO23",183,1397
+677,"Plate15.7.3_F4","Plate15","Stain1",NA,"PEO23",32,1397
+678,"Plate15.7.3_F3","Plate15","Stain1",NA,"PEO23",141,1397
+679,"Plate15.7.3_F2","Plate15","Stain1",NA,"PEO23",80,1397
+680,"Plate16.1.1_F3","Plate16","Stain1",NA,"FT194",97,1648
+681,"Plate16.1.1_F1","Plate16","Stain1",NA,"FT194",108,1648
+682,"Plate16.1.1_F4","Plate16","Stain1",NA,"FT194",95,1648
+683,"Plate16.1.1_F5","Plate16","Stain1",NA,"FT194",85,1648
+684,"Plate16.1.1_F2","Plate16","Stain1",NA,"FT194",77,1648
+685,"Plate16.1.2_F4","Plate16","Stain1",NA,"FT194",110,1648
+686,"Plate16.1.2_F5","Plate16","Stain1",NA,"FT194",107,1648
+687,"Plate16.1.2_F3","Plate16","Stain1",NA,"FT194",135,1648
+688,"Plate16.1.2_F1","Plate16","Stain1",NA,"FT194",136,1648
+689,"Plate16.1.2_F2","Plate16","Stain1",NA,"FT194",112,1648
+690,"Plate16.1.3_F1","Plate16","Stain1",NA,"FT194",115,1648
+691,"Plate16.1.3_F4","Plate16","Stain1",NA,"FT194",66,1648
+692,"Plate16.1.3_F2","Plate16","Stain1",NA,"FT194",136,1648
+693,"Plate16.1.3_F3","Plate16","Stain1",NA,"FT194",119,1648
+694,"Plate16.1.3_F5","Plate16","Stain1",NA,"FT194",112,1648
+695,"Plate16.2.1_F2","Plate16","Stain1",NA,"FT246",53,500
+696,"Plate16.2.1_F5","Plate16","Stain1",NA,"FT246",40,500
+697,"Plate16.2.1_F1","Plate16","Stain1",NA,"FT246",48,500
+698,"Plate16.2.1_F4","Plate16","Stain1",NA,"FT246",37,500
+699,"Plate16.2.1_F3","Plate16","Stain1",NA,"FT246",30,500
+700,"Plate16.2.2_F4","Plate16","Stain1",NA,"FT246",50,500
+701,"Plate16.2.2_F1","Plate16","Stain1",NA,"FT246",52,500
+702,"Plate16.2.2_F5","Plate16","Stain1",NA,"FT246",32,500
+703,"Plate16.2.3_F5","Plate16","Stain1",NA,"FT246",31,500
+704,"Plate16.2.3_F1","Plate16","Stain1",NA,"FT246",43,500
+705,"Plate16.2.3_F3","Plate16","Stain1",NA,"FT246",41,500
+706,"Plate16.3.1_F4","Plate16","Stain1",NA,"IOSE4",51,405
+707,"Plate16.3.1_F2","Plate16","Stain1",NA,"IOSE4",81,405
+708,"Plate16.3.2_F4","Plate16","Stain1",NA,"IOSE4",51,405
+709,"Plate16.3.2_F2","Plate16","Stain1",NA,"IOSE4",57,405
+710,"Plate16.3.3_F3","Plate16","Stain1",NA,"IOSE4",128,405
+711,"Plate16.3.3_F2","Plate16","Stain1",NA,"IOSE4",37,405
+712,"Plate17.1.1_F3","Plate17","Stain1",NA,"OV-1946",45,742
+713,"Plate17.1.1_F1","Plate17","Stain1",NA,"OV-1946",52,742
+714,"Plate17.1.2_F4","Plate17","Stain1",NA,"OV-1946",30,742
+715,"Plate17.1.2_F1","Plate17","Stain1",NA,"OV-1946",117,742
+716,"Plate17.1.2_F5","Plate17","Stain1",NA,"OV-1946",35,742
+717,"Plate17.1.3_F3","Plate17","Stain1",NA,"OV-1946",134,742
+718,"Plate17.1.3_F5","Plate17","Stain1",NA,"OV-1946",127,742
+719,"Plate17.1.3_F1","Plate17","Stain1",NA,"OV-1946",105,742
+720,"Plate18.2.1_F5","Plate18","Stain1",NA,"ES-2",216,1916
+721,"Plate18.2.1_F1","Plate18","Stain1",NA,"ES-2",114,1916
+722,"Plate18.2.2_F1","Plate18","Stain1",NA,"ES-2",156,1916
+723,"Plate18.2.2_F5","Plate18","Stain1",NA,"ES-2",223,1916
+724,"Plate18.2.3_F2","Plate18","Stain1",NA,"ES-2",42,1916
+725,"Plate18.2.3_F5","Plate18","Stain1",NA,"ES-2",269,1916
+726,"Plate18.2.3_F1","Plate18","Stain1",NA,"ES-2",147,1916
+727,"Plate18.2.3_F4","Plate18","Stain1",NA,"ES-2",93,1916
+728,"Plate19.1.1_F3","Plate19","Stain1",NA,"TOV-1946",98,2357
+729,"Plate19.1.1_F1","Plate19","Stain1",NA,"TOV-1946",131,2357
+730,"Plate19.1.1_F4","Plate19","Stain1",NA,"TOV-1946",105,2357
+731,"Plate19.1.1_F5","Plate19","Stain1",NA,"TOV-1946",122,2357
+732,"Plate19.1.1_F2","Plate19","Stain1",NA,"TOV-1946",91,2357
+733,"Plate19.1.2_F2","Plate19","Stain1",NA,"TOV-1946",82,2357
+734,"Plate19.1.2_F4","Plate19","Stain1",NA,"TOV-1946",114,2357
+735,"Plate19.1.2_F3","Plate19","Stain1",NA,"TOV-1946",121,2357
+736,"Plate19.1.2_F1","Plate19","Stain1",NA,"TOV-1946",120,2357
+737,"Plate19.1.2_F5","Plate19","Stain1",NA,"TOV-1946",132,2357
+738,"Plate19.1.3_F1","Plate19","Stain1",NA,"TOV-1946",128,2357
+739,"Plate19.1.3_F3","Plate19","Stain1",NA,"TOV-1946",93,2357
+740,"Plate19.1.3_F5","Plate19","Stain1",NA,"TOV-1946",120,2357
+741,"Plate19.1.3_F2","Plate19","Stain1",NA,"TOV-1946",84,2357
+742,"Plate19.1.3_F4","Plate19","Stain1",NA,"TOV-1946",129,2357
+758,"Plate19.3.1_F5","Plate19","Stain1",NA,"TOV-2835EP",95,512
+759,"Plate19.3.1_F1","Plate19","Stain1",NA,"TOV-2835EP",58,512
+760,"Plate19.3.1_F2","Plate19","Stain1",NA,"TOV-2835EP",34,512
+761,"Plate19.3.2_F1","Plate19","Stain1",NA,"TOV-2835EP",50,512
+762,"Plate19.3.2_F2","Plate19","Stain1",NA,"TOV-2835EP",87,512
+763,"Plate19.3.2_F4","Plate19","Stain1",NA,"TOV-2835EP",72,512
+764,"Plate19.3.3_F4","Plate19","Stain1",NA,"TOV-2835EP",63,512
+765,"Plate19.3.3_F3","Plate19","Stain1",NA,"TOV-2835EP",53,512
+766,"Plate19.4.1_F2","Plate19","Stain1",NA,"TOV-3041G",62,3746
+767,"Plate19.4.1_F1","Plate19","Stain1",NA,"TOV-3041G",96,3746
+768,"Plate19.4.1_F3","Plate19","Stain1",NA,"TOV-3041G",71,3746
+769,"Plate19.4.1_F4","Plate19","Stain1",NA,"TOV-3041G",130,3746
+770,"Plate19.4.1_F5","Plate19","Stain1",NA,"TOV-3041G",60,3746
+771,"Plate19.4.2_F5","Plate19","Stain1",NA,"TOV-3041G",76,3746
+772,"Plate19.4.2_F2","Plate19","Stain1",NA,"TOV-3041G",87,3746
+773,"Plate19.4.2_F1","Plate19","Stain1",NA,"TOV-3041G",62,3746
+774,"Plate19.4.2_F4","Plate19","Stain1",NA,"TOV-3041G",130,3746
+775,"Plate19.4.2_F3","Plate19","Stain1",NA,"TOV-3041G",116,3746
+776,"Plate19.4.3_F1","Plate19","Stain1",NA,"TOV-3041G",74,3746
+777,"Plate19.4.3_F3","Plate19","Stain1",NA,"TOV-3041G",60,3746
+778,"Plate19.4.3_F2","Plate19","Stain1",NA,"TOV-3041G",45,3746
+779,"Plate19.4.3_F5","Plate19","Stain1",NA,"TOV-3041G",111,3746
+780,"Plate19.4.3_F4","Plate19","Stain1",NA,"TOV-3041G",48,3746
+781,"Plate19.5.1_F5","Plate19","Stain1",NA,"TOV-3133G",50,1879
+782,"Plate19.5.1_F4","Plate19","Stain1",NA,"TOV-3133G",39,1879
+783,"Plate19.5.1_F1","Plate19","Stain1",NA,"TOV-3133G",40,1879
+784,"Plate19.5.1_F3","Plate19","Stain1",NA,"TOV-3133G",53,1879
+785,"Plate19.5.2_F3","Plate19","Stain1",NA,"TOV-3133G",47,1879
+786,"Plate19.5.3_F3","Plate19","Stain1",NA,"TOV-3133G",50,1879
+787,"Plate21.1.1_F1","Plate21","Stain1",NA,"SNU-119",87,244
+788,"Plate21.1.2_F1","Plate21","Stain1",NA,"SNU-119",157,244
+789,"Plate21.2.1_F5","Plate21","Stain1",NA,"JHOS-2",64,656
+790,"Plate21.2.1_F4","Plate21","Stain1",NA,"JHOS-2",56,656
+791,"Plate21.2.1_F2","Plate21","Stain1",NA,"JHOS-2",30,656
+792,"Plate21.2.1_F3","Plate21","Stain1",NA,"JHOS-2",65,656
+793,"Plate21.2.1_F1","Plate21","Stain1",NA,"JHOS-2",75,656
+794,"Plate21.2.2_F3","Plate21","Stain1",NA,"JHOS-2",60,656
+795,"Plate21.2.2_F1","Plate21","Stain1",NA,"JHOS-2",37,656
+796,"Plate21.2.3_F5","Plate21","Stain1",NA,"JHOS-2",81,656
+797,"Plate21.2.3_F1","Plate21","Stain1",NA,"JHOS-2",57,656
+798,"Plate21.2.3_F3","Plate21","Stain1",NA,"JHOS-2",70,656
+799,"Plate21.2.3_F2","Plate21","Stain1",NA,"JHOS-2",61,656
+800,"Plate21.3.1_F3","Plate21","Stain1",NA,"Kuramochi",103,2121
+801,"Plate21.3.1_F1","Plate21","Stain1",NA,"Kuramochi",150,2121
+802,"Plate21.3.1_F2","Plate21","Stain1",NA,"Kuramochi",210,2121
+803,"Plate21.3.1_F5","Plate21","Stain1",NA,"Kuramochi",153,2121
+804,"Plate21.3.1_F4","Plate21","Stain1",NA,"Kuramochi",128,2121
+805,"Plate21.3.2_F3","Plate21","Stain1",NA,"Kuramochi",132,2121
+806,"Plate21.3.2_F4","Plate21","Stain1",NA,"Kuramochi",120,2121
+807,"Plate21.3.2_F1","Plate21","Stain1",NA,"Kuramochi",160,2121
+808,"Plate21.3.2_F2","Plate21","Stain1",NA,"Kuramochi",127,2121
+809,"Plate21.3.2_F5","Plate21","Stain1",NA,"Kuramochi",142,2121
+810,"Plate21.3.3_F3","Plate21","Stain1",NA,"Kuramochi",133,2121
+811,"Plate21.3.3_F5","Plate21","Stain1",NA,"Kuramochi",149,2121
+812,"Plate21.3.3_F2","Plate21","Stain1",NA,"Kuramochi",117,2121
+813,"Plate21.3.3_F1","Plate21","Stain1",NA,"Kuramochi",137,2121
+814,"Plate21.3.3_F4","Plate21","Stain1",NA,"Kuramochi",160,2121
+815,"Plate22.1.1_F3","Plate22","Stain1",NA,"TYK-nu",58,1075
+816,"Plate22.1.1_F5","Plate22","Stain1",NA,"TYK-nu",30,1075
+817,"Plate22.1.1_F2","Plate22","Stain1",NA,"TYK-nu",75,1075
+818,"Plate22.1.1_F1","Plate22","Stain1",NA,"TYK-nu",211,1075
+819,"Plate22.1.2_F5","Plate22","Stain1",NA,"TYK-nu",66,1075
+820,"Plate22.1.2_F4","Plate22","Stain1",NA,"TYK-nu",38,1075
+821,"Plate22.1.2_F3","Plate22","Stain1",NA,"TYK-nu",58,1075
+822,"Plate22.1.2_F1","Plate22","Stain1",NA,"TYK-nu",128,1075
+823,"Plate22.1.3_F4","Plate22","Stain1",NA,"TYK-nu",64,1075
+824,"Plate22.1.3_F1","Plate22","Stain1",NA,"TYK-nu",184,1075
+825,"Plate22.1.3_F3","Plate22","Stain1",NA,"TYK-nu",87,1075
+826,"Plate22.1.3_F2","Plate22","Stain1",NA,"TYK-nu",76,1075
+827,"Plate22.2.1_F5","Plate22","Stain1",NA,"TYK-nu.CP-r",70,2326
+828,"Plate22.2.1_F3","Plate22","Stain1",NA,"TYK-nu.CP-r",88,2326
+829,"Plate22.2.1_F1","Plate22","Stain1",NA,"TYK-nu.CP-r",133,2326
+830,"Plate22.2.1_F2","Plate22","Stain1",NA,"TYK-nu.CP-r",167,2326
+831,"Plate22.2.1_F4","Plate22","Stain1",NA,"TYK-nu.CP-r",162,2326
+832,"Plate22.2.2_F3","Plate22","Stain1",NA,"TYK-nu.CP-r",105,2326
+833,"Plate22.2.2_F2","Plate22","Stain1",NA,"TYK-nu.CP-r",234,2326
+834,"Plate22.2.2_F1","Plate22","Stain1",NA,"TYK-nu.CP-r",138,2326
+835,"Plate22.2.2_F5","Plate22","Stain1",NA,"TYK-nu.CP-r",167,2326
+836,"Plate22.2.2_F4","Plate22","Stain1",NA,"TYK-nu.CP-r",46,2326
+837,"Plate22.2.3_F4","Plate22","Stain1",NA,"TYK-nu.CP-r",115,2326
+838,"Plate22.2.3_F1","Plate22","Stain1",NA,"TYK-nu.CP-r",183,2326
+839,"Plate22.2.3_F3","Plate22","Stain1",NA,"TYK-nu.CP-r",221,2326
+840,"Plate22.2.3_F5","Plate22","Stain1",NA,"TYK-nu.CP-r",245,2326
+841,"Plate22.2.3_F2","Plate22","Stain1",NA,"TYK-nu.CP-r",252,2326
+842,"Plate23.1.1_F2","Plate23","Stain1",NA,"TOV-3133 D",63,1738
+843,"Plate23.1.1_F5","Plate23","Stain1",NA,"TOV-3133 D",32,1738
+844,"Plate23.1.1_F3","Plate23","Stain1",NA,"TOV-3133 D",45,1738
+845,"Plate23.1.1_F4","Plate23","Stain1",NA,"TOV-3133 D",45,1738
+846,"Plate23.1.1_F1","Plate23","Stain1",NA,"TOV-3133 D",31,1738
+847,"Plate23.1.2_F2","Plate23","Stain1",NA,"TOV-3133 D",52,1738
+848,"Plate23.1.2_F3","Plate23","Stain1",NA,"TOV-3133 D",40,1738
+849,"Plate23.1.2_F5","Plate23","Stain1",NA,"TOV-3133 D",62,1738
+850,"Plate23.1.2_F4","Plate23","Stain1",NA,"TOV-3133 D",46,1738
+851,"Plate23.1.3_F1","Plate23","Stain1",NA,"TOV-3133 D",40,1738
+852,"Plate23.1.3_F2","Plate23","Stain1",NA,"TOV-3133 D",31,1738
+853,"Plate23.1.3_F3","Plate23","Stain1",NA,"TOV-3133 D",43,1738
+854,"Plate23.2.1_F1","Plate23","Stain1",NA,"TOV-3121 EP",53,1053
+855,"Plate23.2.1_F5","Plate23","Stain1",NA,"TOV-3121 EP",36,1053
+856,"Plate23.2.1_F2","Plate23","Stain1",NA,"TOV-3121 EP",100,1053
+857,"Plate23.2.1_F3","Plate23","Stain1",NA,"TOV-3121 EP",30,1053
+858,"Plate23.2.1_F4","Plate23","Stain1",NA,"TOV-3121 EP",61,1053
+859,"Plate23.2.2_F2","Plate23","Stain1",NA,"TOV-3121 EP",60,1053
+860,"Plate23.2.2_F5","Plate23","Stain1",NA,"TOV-3121 EP",49,1053
+861,"Plate23.2.2_F1","Plate23","Stain1",NA,"TOV-3121 EP",54,1053
+862,"Plate23.2.2_F3","Plate23","Stain1",NA,"TOV-3121 EP",49,1053
+863,"Plate23.2.2_F4","Plate23","Stain1",NA,"TOV-3121 EP",51,1053
+864,"Plate23.2.3_F1","Plate23","Stain1",NA,"TOV-3121 EP",41,1053
+865,"Plate23.2.3_F5","Plate23","Stain1",NA,"TOV-3121 EP",39,1053
+866,"Plate23.2.3_F2","Plate23","Stain1",NA,"TOV-3121 EP",56,1053
+867,"Plate23.2.3_F4","Plate23","Stain1",NA,"TOV-3121 EP",51,1053
+868,"Plate25.1.1_F4","Plate25","Stain1",NA,"TOV-3041G",162,3746
+869,"Plate25.1.1_F2","Plate25","Stain1",NA,"TOV-3041G",186,3746
+870,"Plate25.1.1_F5","Plate25","Stain1",NA,"TOV-3041G",143,3746
+871,"Plate25.1.1_F1","Plate25","Stain1",NA,"TOV-3041G",156,3746
+872,"Plate25.1.1_F3","Plate25","Stain1",NA,"TOV-3041G",188,3746
+873,"Plate25.1.2_F2","Plate25","Stain1",NA,"TOV-3041G",187,3746
+874,"Plate25.1.2_F5","Plate25","Stain1",NA,"TOV-3041G",158,3746
+875,"Plate25.1.2_F4","Plate25","Stain1",NA,"TOV-3041G",173,3746
+876,"Plate25.1.2_F1","Plate25","Stain1",NA,"TOV-3041G",152,3746
+877,"Plate25.1.2_F3","Plate25","Stain1",NA,"TOV-3041G",173,3746
+878,"Plate25.1.3_F5","Plate25","Stain1",NA,"TOV-3041G",159,3746
+879,"Plate25.1.3_F1","Plate25","Stain1",NA,"TOV-3041G",168,3746
+880,"Plate25.1.3_F4","Plate25","Stain1",NA,"TOV-3041G",170,3746
+881,"Plate25.1.3_F2","Plate25","Stain1",NA,"TOV-3041G",155,3746
+882,"Plate25.1.3_F3","Plate25","Stain1",NA,"TOV-3041G",188,3746
+883,"Plate25.2.1_F2","Plate25","Stain1",NA,"TOV-1946",40,2357
+884,"Plate25.2.1_F3","Plate25","Stain1",NA,"TOV-1946",70,2357
+885,"Plate25.2.1_F5","Plate25","Stain1",NA,"TOV-1946",50,2357
+886,"Plate25.2.1_F1","Plate25","Stain1",NA,"TOV-1946",91,2357
+887,"Plate25.2.2_F5","Plate25","Stain1",NA,"TOV-1946",95,2357
+888,"Plate25.2.2_F3","Plate25","Stain1",NA,"TOV-1946",33,2357
+889,"Plate25.2.2_F2","Plate25","Stain1",NA,"TOV-1946",76,2357
+890,"Plate25.2.2_F1","Plate25","Stain1",NA,"TOV-1946",98,2357
+891,"Plate25.2.3_F5","Plate25","Stain1",NA,"TOV-1946",42,2357
+892,"Plate25.2.3_F1","Plate25","Stain1",NA,"TOV-1946",92,2357
+908,"Plate30.1.1_F1","Plate30","Stain1",NA,"TOV-3121 EP",61,1053
+909,"Plate30.1.1_F4","Plate30","Stain1",NA,"TOV-3121 EP",40,1053
+910,"Plate30.1.2_F2","Plate30","Stain1",NA,"TOV-3121 EP",42,1053
+911,"Plate30.1.2_F1","Plate30","Stain1",NA,"TOV-3121 EP",58,1053
+912,"Plate30.1.3_F4","Plate30","Stain1",NA,"TOV-3121 EP",45,1053
+913,"Plate30.1.3_F1","Plate30","Stain1",NA,"TOV-3121 EP",46,1053
+914,"Plate30.1.3_F2","Plate30","Stain1",NA,"TOV-3121 EP",31,1053
+915,"Plate30.2.2_F1","Plate30","Stain1",NA,"TOV-3133G",71,1879
+916,"Plate30.2.2_F2","Plate30","Stain1",NA,"TOV-3133G",130,1879
+917,"Plate30.2.2_F4","Plate30","Stain1",NA,"TOV-3133G",167,1879
+918,"Plate30.2.2_F5","Plate30","Stain1",NA,"TOV-3133G",42,1879
+919,"Plate30.2.2_F3","Plate30","Stain1",NA,"TOV-3133G",58,1879
+920,"Plate30.2.3_F3","Plate30","Stain1",NA,"TOV-3133G",151,1879
+921,"Plate30.2.3_F4","Plate30","Stain1",NA,"TOV-3133G",221,1879
+922,"Plate30.2.3_F5","Plate30","Stain1",NA,"TOV-3133G",195,1879
+923,"Plate30.2.3_F2","Plate30","Stain1",NA,"TOV-3133G",282,1879
+924,"Plate30.2.3_F1","Plate30","Stain1",NA,"TOV-3133G",283,1879
+925,"Plate30.3.2_F1","Plate30","Stain1",NA,"TOV-2929 D",99,142
+926,"Plate30.3.3_F1","Plate30","Stain1",NA,"TOV-2929 D",43,142
+927,"Plate30.4.1_F1","Plate30","Stain1",NA,"TOV-2978 G",67,434
+928,"Plate30.4.1_F5","Plate30","Stain1",NA,"TOV-2978 G",48,434
+929,"Plate30.4.1_F4","Plate30","Stain1",NA,"TOV-2978 G",36,434
+930,"Plate30.4.2_F4","Plate30","Stain1",NA,"TOV-2978 G",50,434
+931,"Plate30.4.2_F1","Plate30","Stain1",NA,"TOV-2978 G",77,434
+932,"Plate30.4.2_F5","Plate30","Stain1",NA,"TOV-2978 G",42,434
+933,"Plate30.4.3_F5","Plate30","Stain1",NA,"TOV-2978 G",67,434
+934,"Plate30.4.3_F1","Plate30","Stain1",NA,"TOV-2978 G",47,434
+935,"Plate31.1.1_F4","Plate31","Stain1",NA,"TOV-2881 EP",98,1026
+936,"Plate31.1.1_F2","Plate31","Stain1",NA,"TOV-2881 EP",79,1026
+937,"Plate31.1.1_F1","Plate31","Stain1",NA,"TOV-2881 EP",55,1026
+938,"Plate31.1.1_F3","Plate31","Stain1",NA,"TOV-2881 EP",49,1026
+939,"Plate31.1.1_F5","Plate31","Stain1",NA,"TOV-2881 EP",45,1026
+940,"Plate31.1.2_F3","Plate31","Stain1",NA,"TOV-2881 EP",93,1026
+941,"Plate31.1.2_F2","Plate31","Stain1",NA,"TOV-2881 EP",101,1026
+942,"Plate31.1.2_F5","Plate31","Stain1",NA,"TOV-2881 EP",55,1026
+943,"Plate31.1.2_F4","Plate31","Stain1",NA,"TOV-2881 EP",68,1026
+944,"Plate31.1.3_F4","Plate31","Stain1",NA,"TOV-2881 EP",47,1026
+945,"Plate31.1.3_F3","Plate31","Stain1",NA,"TOV-2881 EP",81,1026
+946,"Plate31.1.3_F2","Plate31","Stain1",NA,"TOV-2881 EP",139,1026
+947,"Plate31.1.3_F1","Plate31","Stain1",NA,"TOV-2881 EP",66,1026
+948,"Plate31.1.3_F5","Plate31","Stain1",NA,"TOV-2881 EP",50,1026
+949,"Plate31.2.1_F2","Plate31","Stain1",NA,"TOV-2295",62,691
+950,"Plate31.2.1_F3","Plate31","Stain1",NA,"TOV-2295",46,691
+951,"Plate31.2.1_F1","Plate31","Stain1",NA,"TOV-2295",58,691
+952,"Plate31.2.2_F4","Plate31","Stain1",NA,"TOV-2295",96,691
+953,"Plate31.2.2_F1","Plate31","Stain1",NA,"TOV-2295",36,691
+954,"Plate31.2.2_F2","Plate31","Stain1",NA,"TOV-2295",117,691
+955,"Plate31.2.3_F3","Plate31","Stain1",NA,"TOV-2295",88,691
+956,"Plate31.2.3_F2","Plate31","Stain1",NA,"TOV-2295",70,691
+957,"Plate31.2.3_F5","Plate31","Stain1",NA,"TOV-2295",39,691
+958,"Plate31.2.3_F4","Plate31","Stain1",NA,"TOV-2295",79,691
+959,"Plate31.3.1_F3","Plate31","Stain1",NA,"TOV-3133 D",53,1738
+960,"Plate31.3.1_F2","Plate31","Stain1",NA,"TOV-3133 D",135,1738
+961,"Plate31.3.1_F5","Plate31","Stain1",NA,"TOV-3133 D",62,1738
+962,"Plate31.3.1_F4","Plate31","Stain1",NA,"TOV-3133 D",35,1738
+963,"Plate31.3.1_F1","Plate31","Stain1",NA,"TOV-3133 D",31,1738
+964,"Plate31.3.2_F2","Plate31","Stain1",NA,"TOV-3133 D",58,1738
+965,"Plate31.3.2_F3","Plate31","Stain1",NA,"TOV-3133 D",88,1738
+966,"Plate31.3.2_F4","Plate31","Stain1",NA,"TOV-3133 D",125,1738
+967,"Plate31.3.2_F5","Plate31","Stain1",NA,"TOV-3133 D",77,1738
+968,"Plate31.3.2_F1","Plate31","Stain1",NA,"TOV-3133 D",37,1738
+969,"Plate31.3.3_F4","Plate31","Stain1",NA,"TOV-3133 D",108,1738
+970,"Plate31.3.3_F1","Plate31","Stain1",NA,"TOV-3133 D",79,1738
+971,"Plate31.3.3_F3","Plate31","Stain1",NA,"TOV-3133 D",81,1738
+972,"Plate31.3.3_F5","Plate31","Stain1",NA,"TOV-3133 D",105,1738
+973,"Plate31.3.3_F2","Plate31","Stain1",NA,"TOV-3133 D",134,1738

@@ -1,0 +1,73 @@
+cell_line,passage,DatePellet,Media,OxygenConditions,Provider,Type,comment,RNAExtractionMethod,RNADate,AliquotID,RNAng/ul,RNAJBLABnumber,RNABoxID,RNARackposition,RNAFluidxBarcode,RIN,vial_passage,comment2
+COV318,P49,17/05/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,1,37.2,JBLAB-25674,Cell Line RNA Box 2,A1,,not recorded but very high quality,P49,
+OV-90,Px+4,17/05/2019,OSE,21%,unknown,HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,2,204,JBLAB-25675,Cell Line RNA Box 2,B1,,not recorded but very high quality,Px+5,passage no from label doesn’t match
+59M,P32,21/05/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,3,90.8,JBLAB-25676,Cell Line RNA Box 2,C1,,not recorded but very high quality,P32,
+TOV-2881 EP,P74,21/03/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,4,238,JBLAB-25677,Cell Line RNA Box 2,D1,,not recorded but very high quality,P74,
+FT194,Px+24,23/08/2019,DMEM/F-12,21%,Ronnie Drapkin,normal fallopian tube,these two lines were originally grown using 2%USG instead of 10%FCS,Maxwell RSC simplyRNA Cells,01/12/2020,5,131,JBLAB-25678,Cell Line RNA Box 2,E1,,not recorded but very high quality,Px+24,
+CIOV2,P29,15/10/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,6,98.6,JBLAB-25679,Cell Line RNA Box 2,F1,,not recorded but very high quality,P29,
+OV-4485,P69,23/09/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,7,252,JBLAB-25680,Cell Line RNA Box 2,G1,,not recorded but very high quality,P69,
+OV-4453,P75,25/07/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,8,133,JBLAB-25681,Cell Line RNA Box 2,H1,,not recorded but very high quality,P75,
+TOV-3133 G,P75,31/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,9,94.8,JBLAB-25682,Cell Line RNA Box 2,A2,,not recorded but very high quality,P75,
+OV-2085 (2),Px+5,06/12/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,10,65.6,JBLAB-25683,Cell Line RNA Box 2,B2,,not recorded but very high quality,Px+5,
+TOV-3121 D,P74,06/12/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,11,19.8,JBLAB-25684,Cell Line RNA Box 2,C2,,not recorded but very high quality,P74,
+PEO16,P43,25/11/2020,RPMI 1640,21%,Simon<U+00A0>Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,01/12/2020,12,104,JBLAB-25685,Cell Line RNA Box 2,D2,,not recorded but very high quality,P42,passage no from label doesn’t match
+CIOV4,P14,02/05/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,13,103,JBLAB-25686,Cell Line RNA Box 2,E2,,10,P14,
+CIOV5,P13,15/04/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,14,176,JBLAB-25687,Cell Line RNA Box 2,F2,,9.8,P13,
+CIOV6,P9,16/04/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,15,102,JBLAB-25688,Cell Line RNA Box 2,G2,,10,P9,small pellet; not split into two for -80
+OV56,Px+6,NA,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,16,92,JBLAB-25689,Cell Line RNA Box 2,H2,,9.9,Px+8,small pellet; not split into two for -80; passage no not matching
+COV362,P62,16/05/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,NA,Maxwell RSC simplyRNA Cells,08/12/2020,17,85.2,JBLAB-25690,Cell Line RNA Box 2,A3,,10,P62,
+CAOV3,P40,28/05/2019,DMEM/F-12,21%,unknown,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,18,153,JBLAB-25691,Cell Line RNA Box 2,B3,,9.9,P40,
+COV644,P50,30/05/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian epithelial-mucinous carcinoma,NA,Maxwell RSC simplyRNA Cells,08/12/2020,19,81,JBLAB-25692,Cell Line RNA Box 2,C3,,9.9,P50,
+OVSAHO,NA,03/06/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,20,102,JBLAB-25693,Cell Line RNA Box 2,D3,,10,Px+3,
+OAW28,Px+3,14/05/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,21,56.2,JBLAB-25694,Cell Line RNA Box 2,E3,,10,Px+3,
+2774,Px+19,28/06/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,probably,Maxwell RSC simplyRNA Cells,08/12/2020,22,148,JBLAB-25695,Cell Line RNA Box 2,F3,,10,Px+19,
+A2780ADR,Px+14,28/06/2019,RPMI 1640,21%,"Jozien Helleman, Netherlands",unknown,catalog as ovarian carcinoma but dubious. This clone is resistant to adriamycin,Maxwell RSC simplyRNA Cells,08/12/2020,23,120,JBLAB-25696,Cell Line RNA Box 2,G3,,10,Px+14,
+A2780CIS,Px+14,02/07/2019,RPMI 1640,21%,"Jozien Helleman, Netherlands",unknown,catalog as ovarian carcinoma but dubious. This clone is resistant to cisplatin,Maxwell RSC simplyRNA Cells,08/12/2020,24,76.4,JBLAB-25697,Cell Line RNA Box 2,H3,,10,Px+14,
+OV-1369 (2),P74,12/02/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,25,138,JBLAB-25698,Cell Line RNA Box 2,A4,,9.9,P73,passage no not matching
+TOV-3041 G,P71,12/02/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,26,208,JBLAB-25699,Cell Line RNA Box 2,B4,,10,P70,passage no not matching
+TOV-3133 D,P71,19/02/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,27,222,JBLAB-25700,Cell Line RNA Box 2,C4,,9.9,P71,
+TOV-2835 EP,P77,14/02/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,28,131,JBLAB-25871,Cell Line RNA Box 2,D4,,10,P77,
+OV-3331,P69,19/02/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,29,230,JBLAB-25872,Cell Line RNA Box 2,E4,,9.4,P69,
+TOV-2978 G,P72,03/03/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,30,108,JBLAB-25873,Cell Line RNA Box 2,F4,,9.8,P72,
+FT246,Px+16,23/08/2019,DMEM/F-12,21%,Ronnie Drapkin,normal fallopian tube,NA,Maxwell RSC simplyRNA Cells,08/12/2020,33,35.6,JBLAB-25874,Cell Line RNA Box 2,G4,,10,Px+16,pellet not visible
+CIOV1,P29,04/04/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,34,246,JBLAB-25875,Cell Line RNA Box 2,H4,,10,P29,
+CIOV2,P22,03/04/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,35,290,JBLAB-25876,Cell Line RNA Box 2,A5,,9.5,P23,passage no not matching
+CIOV3,P22,15/04/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,08/12/2020,36,140,JBLAB-25877,Cell Line RNA Box 2,B5,,9.9,P22,pellet not visible
+PEO1,P90,07/02/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,37,292,JBLAB-25878,Cell Line RNA Box 2,C5,,9.6,P92,passage no not matching
+PEO4,Px+17,07/02/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,38,208,JBLAB-25879,Cell Line RNA Box 2,D5,,9.6,Px+9,passage no not matching
+PEO23,Px+19,11/02/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,39,310,JBLAB-25880,Cell Line RNA Box 2,E5,,9.2,Px+20,passage no not matching
+PEO14,P38,14/02/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,40,224,JBLAB-25881,Cell Line RNA Box 2,F5,,9.9,P39,passage no not matching
+COV413A,Px+18,22/07/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian epithelial-serous carcinoma,cell line established from a metastasis of the sigmoid colon,Maxwell RSC simplyRNA Cells,09/12/2020,41,436,JBLAB-25882,Cell Line RNA Box 2,G5,,9.4,Px+18,
+CAOV4,P54,22/07/2019,L-15,21%,"Jozien Helleman, Netherlands",HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,42,320,JBLAB-25883,Cell Line RNA Box 2,H5,,9.8,P54,
+FUOV1,P4,02/08/2019,DMEM/F-12,21%,"DSMZ, ACC444, Lot7, 7.03.2018",HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,43,191,JBLAB-25884,Cell Line RNA Box 2,A6,,10,P4,
+NIH:OVCAR3,Px+8,30/08/2019,RPMI 1640,21%,ATCC,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,44,474,JBLAB-25885,Cell Line RNA Box 2,B6,,9.7,Px+8,
+OVKATE,Px+4,08/09/2019,RPMI 1640,21%,unknown,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,45,149,JBLAB-25886,Cell Line RNA Box 2,C6,,9.8,Px+4,small pellet
+IOSE4,P38,30/09/2019,DMEM/F-12,21%,unknown,normal ovarian surface epithelium,Telomerase Immortalized,Maxwell RSC simplyRNA Cells,09/12/2020,46,106,JBLAB-25887,Cell Line RNA Box 2,D6,,9.8,P38,small pellet
+IGROV1,P29,15/10/2019,RPMI 1640,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,probably,Maxwell RSC simplyRNA Cells,09/12/2020,47,135,JBLAB-25888,Cell Line RNA Box 2,E6,,9.2,Px+14,passage no not matching
+NA12878,Px+18,14/11/2019,RPMI 1640,21%,Caldas lab,lymphoblastoid,NA,Maxwell RSC simplyRNA Cells,09/12/2020,48,130,JBLAB-25889,Cell Line RNA Box 2,F6,,9.3,Px+11,passage no not matching
+PEA1,Px+3,03/12/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,49,350,JBLAB-25890,Cell Line RNA Box 2,G6,,9.4,Px+8,passage no not matching
+PEA2,Px+3,03/12/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,50,416,JBLAB-25891,Cell Line RNA Box 2,H6,,2.6,Px+3,low RIN - rerun bioanalyser as profile okay
+OVCAR-5,Px+6,19/12/2019,DMEM/F-12,21%,canadian ovarian tissue bank,unknown,Problematic cell line: Possibly misidentified. Originally thought to be a high grade ovarian serous adenocarcinoma but suspected to have a upper gastrointestinal origin,Maxwell RSC simplyRNA Cells,09/12/2020,51,144,JBLAB-25892,Cell Line RNA Box 2,A7,,9.9,Px+6,
+HOC-7,P17,23/12/2019,RPMI 1640,21%,"Jozien Helleman, Netherlands",LGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,52,230,JBLAB-25893,Cell Line RNA Box 2,B7,,9.8,P17,
+PEO6,Px+3,24/12/2019,RPMI 1640,21%,Simon Langdon,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,53,284,JBLAB-25894,Cell Line RNA Box 2,C7,,9.8,Px+3,
+COV362.4,P44,30/12/2019,DMEM/F-12,21%,"Jozien Helleman, Netherlands",endometrioid ovarian carcinoma,clone from COV362,Maxwell RSC simplyRNA Cells,09/12/2020,54,542,JBLAB-25895,Cell Line RNA Box 2,D7,,9.8,P44,
+OV17R,P19,13/01/2020,DMEM/F-12,21%,"Jozien Helleman, Netherlands",ovarian adenocarcinoma,NA,Maxwell RSC simplyRNA Cells,09/12/2020,55,216,JBLAB-25896,Cell Line RNA Box 2,E7,,9.7,P19,
+ES2,Px+3,17/01/2020,McCoy's 5A,21%,unknown,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,56,554,JBLAB-25897,Cell Line RNA Box 2,F7,,9.8,Px+3,
+OVCAR-8,P5,17/01/2020,RPMI 1640,21%,canadian ovarian tissue bank,HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,57,422,JBLAB-25898,Cell Line RNA Box 2,G7,,9.9,P5,
+TOV-3291 G,P73,23/09/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,58,133,JBLAB-25899,Cell Line RNA Box 2,H7,,10,P73,
+OV-90 (mes-masson),P75,15/07/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,59,420,JBLAB-25900,Cell Line RNA Box 2,A8,,9.1,P75,
+TOV-3121 EP,P69,26/07/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,09/12/2020,60,176,JBLAB-25901,Cell Line RNA Box 2,B8,,9.6,P69,
+OV-2295,P75,16/07/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,61,80.8,JBLAB-25902,Cell Line RNA Box 2,C8,,9.1,P75,pellet not visible
+TOV-2223 G,P73,26/09/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,62,93.6,JBLAB-25903,Cell Line RNA Box 2,D8,,8.9,P73,
+TOV-2295,P72,01/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,63,128,JBLAB-25904,Cell Line RNA Box 2,E8,,8.6,P72,
+OV-3133,P75,01/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,64,141,JBLAB-25905,Cell Line RNA Box 2,F8,,9.5,P75,
+TOV-1369 M,P71,21/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,65,77,JBLAB-25906,Cell Line RNA Box 2,G8,,9.6,P71,
+OV-2295 (2),P72,15/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,66,71.4,JBLAB-25907,Cell Line RNA Box 2,H8,,9.9,P72,pellet not visible
+OV-866 (2),P71,15/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,67,169,JBLAB-25908,Cell Line RNA Box 2,A9,,8.3,P71,pellet not visible
+TOV-1946,P75,24/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,68,114,JBLAB-25909,Cell Line RNA Box 2,B9,,9.8,P75,
+OV-1946,P70,28/10/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,69,174,JBLAB-25910,Cell Line RNA Box 2,C9,,9.7,P70,
+CIOV7,P4/P23,23/12/2019,DMEM/F-12,21%,in-house,HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,70,64.8,JBLAB-25911,Cell Line RNA Box 2,D9,,9.3,P4/P23,
+OV-2978,P74,28/02/2020,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,71,114,JBLAB-25912,Cell Line RNA Box 2,E9,,9.6,P74,
+OAW42,Px+28,25/11/2020,DMEM/F-12,21%,"Jozien<U+00A0>Helleman,<U+00A0>Netherlands",ovarian cystadenocarcinoma,NA,Maxwell RSC simplyRNA Cells,10/12/2020,72,146,JBLAB-25913,Cell Line RNA Box 2,F9,,8.3,Px+28,
+OV-2085,P73,21/03/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,31,314,JBLAB-25914,Cell Line RNA Box 2,G9,,9.4,P73,
+TOV-2929 D,NA,26/04/2019,OSE,5%,"Mes Masson, Canada",HGSOC,NA,Maxwell RSC simplyRNA Cells,10/12/2020,32,96.4,JBLAB-25915,Cell Line RNA Box 2,H9,,9.7,P74,

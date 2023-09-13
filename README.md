@@ -8,7 +8,7 @@ Please cite [Sauer et al. 2023](https://www.biorxiv.org/content/10.1101/2022.09.
 ## Contact
 For questions/comments please raise an issue or contact: 
 
-Carolin Sauer: carolin.sauer@cruk.cam.ac.uk
+Carolin Sauer: carolin.sauer@cruk.cam.ac.uk\n
 James Brenton: james.brenton@cruk.cam.ac.uk
 
 

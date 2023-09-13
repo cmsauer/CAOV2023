@@ -137,7 +137,7 @@ comb %>%
 # ggsave("../figures/CAOV_paper_figure8f.pdf", height = 2, width = 4)
 # write.csv(comb, "../source_data_figures/source_data_figure8e-f.csv", row.names = F)
 
-## code for ALR model (Fig8g-h) provided in separate script. (see scripts/ALR/CNS_analyses_FE_no_zeros_CAandMN_CMS20211227.R)
+## code for ALR model (Fig8g-h) provided in separate script. (see scripts/ALR_analysis/CNS_analyses_FE_no_zeros_CAandMN_CMS20211227.R)
 
 # Genome subclonality
 ## Calculate genome subclonality (also see rascal paper)

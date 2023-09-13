@@ -2,5 +2,6 @@
 .RData
 .pdf
 .png
+.DS_Store
 copyNumberSegmented_30kb_HGSOC_CellLines.txt
 *_spatials.txt

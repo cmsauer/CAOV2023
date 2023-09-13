@@ -1,0 +1,41 @@
+R version 3.6.1 (2019-07-05)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United Kingdom.1252  LC_CTYPE=English_United Kingdom.1252    LC_MONETARY=English_United Kingdom.1252
+[4] LC_NUMERIC=C                            LC_TIME=English_United Kingdom.1252    
+
+attached base packages:
+[1] parallel  stats4    stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] shades_1.4.0                data.table_1.12.8           GGally_2.1.2                GRmetrics_1.12.2           
+ [5] fgsea_1.12.0                Rcpp_1.0.5                  DESeq2_1.26.0               SummarizedExperiment_1.16.0 DelayedArray_0.12.0        
+[10] BiocParallel_1.20.0         matrixStats_0.56.0          Biobase_2.46.0              GenomicRanges_1.38.0        GenomeInfoDb_1.22.0        
+[15] IRanges_2.20.0              S4Vectors_0.24.0            BiocGenerics_0.32.0         survminer_0.4.9             ggpubr_0.4.0               
+[20] survival_3.2-3              broom_0.7.0                 forcats_0.5.0               stringr_1.4.0               dplyr_1.0.0                
+[25] purrr_0.3.3                 readr_1.3.1                 tidyr_1.1.0                 tibble_3.0.4                ggplot2_3.3.5              
+[30] tidyverse_1.3.0            
+
+loaded via a namespace (and not attached):
+  [1] readxl_1.3.1           backports_1.1.10       Hmisc_4.4-0            fastmatch_1.1-0        plyr_1.8.6             splines_3.6.1         
+  [7] digest_0.6.27          htmltools_0.5.1.1      fansi_0.4.1            magrittr_2.0.1         checkmate_2.0.0        memoise_1.1.0         
+ [13] cluster_2.1.0          openxlsx_4.1.5         limma_3.42.0           annotate_1.64.0        modelr_0.1.8           prettyunits_1.1.1     
+ [19] jpeg_0.1-8.1           colorspace_1.4-1       blob_1.2.1             rvest_0.3.5            ggrepel_0.8.2          haven_2.3.1           
+ [25] xfun_0.19              crayon_1.3.4           RCurl_1.98-1.2         jsonlite_1.7.1         genefilter_1.68.0      zoo_1.8-8             
+ [31] glue_1.4.2             gtable_0.3.0           zlibbioc_1.32.0        XVector_0.26.0         car_3.0-10             abind_1.4-5           
+ [37] scales_1.1.1           DBI_1.1.0              rstatix_0.6.0          xtable_1.8-4           progress_1.2.2         htmlTable_2.0.1       
+ [43] foreign_0.8-71         bit_1.1-15.2           km.ci_0.5-2            Formula_1.2-3          htmlwidgets_1.5.1      httr_1.4.2            
+ [49] RColorBrewer_1.1-2     acepack_1.4.1          ellipsis_0.3.1         pkgconfig_2.0.3        reshape_0.8.8          XML_3.98-1.20         
+ [55] farver_2.0.3           nnet_7.3-14            dbplyr_1.4.4           locfit_1.5-9.4         utf8_1.1.4             later_1.1.0.1         
+ [61] tidyselect_1.1.0       labeling_0.4.2         rlang_0.4.11           AnnotationDbi_1.48.0   munsell_0.5.0          cellranger_1.1.0      
+ [67] tools_3.6.1            cli_2.1.0              generics_0.0.2         RSQLite_2.2.0          fastmap_1.0.1          evaluate_0.14         
+ [73] yaml_2.2.1             knitr_1.29             bit64_0.9-7            fs_1.4.2               zip_2.0.4              survMisc_0.5.5        
+ [79] nlme_3.1-148           mime_0.9               xml2_1.3.2             compiler_3.6.1         rstudioapi_0.11        curl_4.3              
+ [85] png_0.1-7              ggsignif_0.6.0         reprex_0.3.0           geneplotter_1.64.0     stringi_1.4.6          lattice_0.20-41       
+ [91] Matrix_1.2-18          KMsurv_0.1-5           vctrs_0.3.4            pillar_1.4.6           lifecycle_0.2.0        cowplot_1.0.0         
+ [97] bitops_1.0-6           httpuv_1.5.4           R6_2.4.1               latticeExtra_0.6-29    promises_1.1.1         gridExtra_2.3         
+[103] rio_0.5.16             assertthat_0.2.1       withr_2.3.0            GenomeInfoDbData_1.2.2 mgcv_1.8-31            hms_0.5.3             
+[109] grid_3.6.1             rpart_4.1-15           rmarkdown_2.21         carData_3.0-4          shiny_1.5.0            lubridate_1.7.9       
+[115] base64enc_0.1-3       
